@@ -174,6 +174,26 @@ body {
     z-index: 3;
 }
 
+.hero-banner .conftitle {
+    white-space: nowrap;
+}
+
+@media (max-width: 767px) {
+    .hero-banner {
+        height: 16rem;
+    }
+    
+    .hero-banner .conftitle {
+        font-size: 55px !important;
+        white-space: nowrap;
+    }
+    
+    .hero-banner .container {
+        width: 100%;
+        padding: 0 1rem;
+    }
+}
+
 
 @media (max-width: 480px) {
     .banner h2 {
