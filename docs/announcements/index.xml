@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcements on Computational Humanities Research 2027</title>
+    <link>http://2027.computational-humanities-research/announcements/</link>
+    <description>Recent content in Announcements on Computational Humanities Research 2027</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Feb 2021 16:05:25 +0100</lastBuildDate>
+    <atom:link href="http://2027.computational-humanities-research/announcements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discover ARoS Art Museum with Free Voucher</title>
+      <link>http://2027.computational-humanities-research/announcements/aros/</link>
+      <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
+      <guid>http://2027.computational-humanities-research/announcements/aros/</guid>
+      <description>&lt;style&gt;&#xA;    .announce img {&#xA;        max-height: 300px;&#xA;        max-width: 100%;&#xA;    }&#xA;    .announce img.first-image {&#xA;        max-height: 400px; &#xA;        display: block;&#xA;        margin-left: auto;&#xA;        margin-right: auto;&#xA;    }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;announce&#34;&gt;&#xA;    &lt;img class=&#34;first-image&#34; src=&#34;http://2027.computational-humanities-research/images/news/aros-outside.jpg&#34; alt = &#34;ARoS Art Museum from the outside&#34;&gt;&#xA;    &lt;p&gt;&#xA;    As a participant in the upcoming CHR2024 conference, you have a unique opportunity to explore the renowned ARoS Art Museum, where art truly comes to life. We are excited to offer all attendees vouchers that can be used during your stay in Aarhus, giving you the chance to experience the museum’s extraordinary collections and exhibitions.&#xA;    &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keynote Lauren Klein</title>
+      <link>http://2027.computational-humanities-research/announcements/lauren-klein/</link>
+      <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
+      <guid>http://2027.computational-humanities-research/announcements/lauren-klein/</guid>
+      <description>&lt;style&gt;&#xA;    img.first_image {&#xA;        max-width: 100%; &#xA;        max-height: 400px;&#xA;        display: block;&#xA;        margin-left: auto;&#xA;        margin-right: auto;&#xA;    }&#xA;&#xA;    .abstract {&#xA;        text-align: justify;&#xA;        font-size:0.8rem;&#xA;        padding: 1rem;&#xA;        background-color: rgba(96,24,67,0.03);&#xA;        border-left: 4px solid #2c5282;&#xA;        border-radius: 0 6px 6px 0;&#xA;    }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;announce&#34;&gt;&#xA;    &lt;img class=&#34;first_image&#34; src=&#34;http://2027.computational-humanities-research/images/news/lauren-klein.jpg&#34; alt =&#34;Portrait of Lauren Klein&#34;&gt;&#xA;    &lt;h2 id =&#34;about-lauren&#34;&gt;About Lauren&lt;/h2&gt;&#xA;    &lt;p&gt;&#xA;        We are happy to announce that Lauren Klein, Winship Distinguished Research Professor and Associate Professor in the departments of Quantitative &#xA;    Theory &amp; Methods and English at Emory University, will give a keynote speech at the Computational Humanities Research 2024 Conference.&#xA;    &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keynote Leon Derczynski</title>
+      <link>http://2027.computational-humanities-research/announcements/leon-derczynski/</link>
+      <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
+      <guid>http://2027.computational-humanities-research/announcements/leon-derczynski/</guid>
+      <description>&lt;style&gt;&#xA;    img.first_image {&#xA;        max-width: 100%; &#xA;        max-height: 400px;&#xA;        display: block;&#xA;        margin-left: auto;&#xA;        margin-right: auto;&#xA;    }&#xA;    &#xA;    .abstract {&#xA;        text-align: justify;&#xA;        font-size:0.8rem;&#xA;        padding: 1rem;&#xA;        background-color: rgba(96,24,67,0.03);&#xA;        border-left: 4px solid #2c5282;&#xA;        border-radius: 0 6px 6px 0;&#xA;    }&#xA;&lt;/style&gt;&#xA;&lt;img class=&#34;first_image&#34; src=&#34;http://2027.computational-humanities-research/images/news/leon-derczynski.jpg&#34; alt = &#34;Portrait of Leon Derczynski&#34;&gt;&#xA;&lt;h2 id=&#34;about-leon&#34;&gt;About Leon&lt;/h2&gt;&#xA;&lt;p&gt;We are happy to announce that Professor Leon Derczynski, principal research scientist in LLM Security at &lt;a href=&#34;https://www.nvidia.com/en-us/&#34;&gt;NVIDIA&lt;/a&gt;&#xA;and prof in Natural Language Processing (NLP)&#xA;at &lt;a href=&#34;https://en.itu.dk/&#34;&gt;ITU Copenhagen&lt;/a&gt; (IT University of Copenhagen) will give a keynote speech at the Computational Humanities Research 2024 Conference in Aarhus, Denmark.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CHR 2025 in Luxembourg</title>
+      <link>http://2027.computational-humanities-research/announcements/chr2025-in-luxembourg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2027.computational-humanities-research/announcements/chr2025-in-luxembourg/</guid>
+      <description>&lt;style&gt;&#xA;.announce img {&#xA;    max-height: 300px;&#xA;    max-width: 100%;&#xA;}&#xA;&#xA;.announce img.first_image {&#xA;    max-height: 400px; &#xA;    display: block; &#xA;    margin-left: auto;&#xA;    margin-right: auto;&#xA;}&#xA;&#xA;.announce div &gt; img.first_image { &#xA;    text-align: center; /* if centring  fails */&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;announce&#34;&gt;&#xA;    &lt;img class=&#34;first_image&#34; src=&#34;http://2027.computational-humanities-research/images/news/chr2025-luxembourg.jpg&#34; alt =&#34;Foto of buildings in Luxembourg, covered in snow&#34;&gt;&#xA;&lt;p&gt;&#xA;The 6th edition of the Computational Humanities Research (CHR) conference will take place at the &lt;a href=&#34;https://www.c2dh.uni.lu/&#34;&gt;Luxembourg Centre for Contemporary and Digital History (C²DH)&lt;/a&gt; at the &lt;a href=&#34;https://www.uni.lu/en/&#34;&gt;University of Luxembourg&lt;/a&gt; from &lt;strong&gt;9 to 12 December 2025&lt;/strong&gt;.&#xA;&lt;p&gt;&#xA;&lt;p&gt;&#xA;Renowned for its focus on providing a dedicated venue for presenting computational work that bridges formal methods and traditional inquiry in the arts and humanities, the CHR conference offers a platform to explore computational, statistical, and mathematical approaches, alongside theoretical reflections on these methods. We look forward to continuing our discussions in Luxembourg!&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CHR2024 Best Paper Awards</title>
+      <link>http://2027.computational-humanities-research/announcements/best-paper-awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2027.computational-humanities-research/announcements/best-paper-awards/</guid>
+      <description>&lt;style&gt;&#xA;    /* Base styles */&#xA;    .announce {&#xA;        display: flex;&#xA;        justify-content: center;&#xA;        align-items: center;&#xA;    }&#xA;    .announce img {&#xA;        max-height: 300px;&#xA;        max-width: 85%;&#xA;        margin: 5pt;&#xA;    }&#xA;    .announce img.first-image, .announce img.second-image {&#xA;        max-height: 400px;&#xA;    }&#xA;&#xA;    .paper-entry {&#xA;        font-size: 1.3em;&#xA;        padding: 0.5rem 1rem;&#xA;        margin-bottom: 1.5rem;&#xA;    }&#xA;&#xA;    .paper-title {&#xA;        display: inline;&#xA;    }&#xA;    .paper-authors {&#xA;        margin-left: 2em;&#xA;        display: block;&#xA;    }&#xA;&#xA;    .honorable-entry {&#xA;        font-size:1em;&#xA;&#xA;    }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;announce&#34;&gt;&#xA;    &lt;img src=&#34;http://2027.computational-humanities-research/images/news/CHR-BestLongPaperAward.png&#34; alt=&#34;Certificate for best long paper award, awarded to Jamie Mahowald and Benjamin Lee&#34; class=&#34;first-image&#34;&gt;&#xA;    &lt;img src=&#34;http://2027.computational-humanities-research/images/news/CHR-BestShortPaperAward.png&#34; alt=&#34;Second Image&#34; class=&#34;second-image&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;CHR2024 showcased outstanding work, highlighting cutting-edge computational approaches to humanities research. A heartfelt thank you to everyone who participated, whether by presenting your work or contributing to meaningful discussions at the conference.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Diversity and Inclusion at CHR2024</title>
+      <link>http://2027.computational-humanities-research/announcements/diversity-and-inclusion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2027.computational-humanities-research/announcements/diversity-and-inclusion/</guid>
+      <description>&lt;style&gt;&#xA;    .announce img {&#xA;        max-height: 300px;&#xA;        max-width: 85%;&#xA;    }&#xA;    .announce img.first-image {&#xA;        max-height: 400px; &#xA;        display: block;&#xA;        margin-left: auto;&#xA;        margin-right: auto;&#xA;    }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;announce&#34;&gt;&#xA;    &lt;p&gt;&#xA;    New initiatives, like the Anti-Discrimination Committee and reduced fees, reinforce the CHR2024 Conference’s commitment to accessibility and inclusivity, ensuring all participants feel valued and supported.&#xA;    &lt;br&gt;&#xA;    &lt;br&gt;&#xA;    Since its inception five years ago, the Computational Humanities Research (CHR) Conference has developed into a prominent and well-regarded event, attracting researchers who apply computational methods across various humanities fields. This growth has enriched the CHR community, diversifying both the range of topics explored and the contributors involved. &#xA;    &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vacancies in the CHR Board</title>
+      <link>http://2027.computational-humanities-research/announcements/board-vacancies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2027.computational-humanities-research/announcements/board-vacancies/</guid>
+      <description>&lt;p&gt;Looking to make an impact in Computational Humanities? The Society of Computational Humanities Research (SCHR) is recruiting an &lt;span style=&#34;font-weight:bold;&#34;&gt;Early Career Representative&lt;/span&gt; and a &lt;span style=&#34;font-weight:bold;&#34;&gt;Proceedings Officer&lt;/span&gt; to join its &lt;a href=&#34;http://2027.computational-humanities-research/about/board&#34;&gt;board&lt;/a&gt;. These volunteer roles are perfect opportunities to shape the field and support its growing community.&lt;/p&gt;&#xA;&lt;div style=&#34;font-size:1.6em; text-align:center&#34;&gt;&#xA;&lt;span style=&#34;font-weight:bold;&#34;&gt;Apply by 21 February 2025!&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;space&#34; style=&#34;padding-top:0.5%;&#34;&gt;&lt;/div&gt;&#xA;&lt;h3 style=&#34;font-weight:bold;&#34;&gt;Vacancy 1: Early Career Representative for the Society of Computational Humanities Research (SCHR)&lt;/h3&gt;&#xA;&lt;p&gt;The Society of Computational Humanities Research (SCHR) is seeking an Early Career Representative to join its board. This newly established role is dedicated to representing the interests of early career researchers within the Society. As Early Career Representative, you will act as a bridge between the Society and the early-career research Computational Humanities Research community, ensuring their perspectives are heard and their needs addressed.&#xA;This is a remote volunteer position for a minimum of one year with the possibility of extension for another year. The estimated workload for this role includes bi-monthly meetings, and an average commitment of approximately one day of work per month, though this may vary throughout the year.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

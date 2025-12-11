@@ -19,8 +19,11 @@ title: "About"
     grid-template-columns: repeat(3, 1fr);
 }
 
+/* #60207f; */
+/* #dcda07; */
+
 .banner {
-    background-color: #002147;
+    background-color: var(--color2);
     color: white;
     padding: 15px;  /* minimal padding */
     border-radius: 10px;
@@ -58,12 +61,12 @@ title: "About"
 }
 
 .banner:hover {
-    background-color: #4b0033;
+    background-color: var(--color1);
 }
 
 .banner:hover .arrow {
     background-color: white;
-    color: #4b0033;
+    color: var(--color2);
 }
 
 @media (max-width: 480px) {a
@@ -81,7 +84,7 @@ title: "About"
 
 
 <!-- WRITTEN CONTENT STARTS HERE -->
-The Computational Humanities Research (CHR) community is an international and interdisciplinary community that supports researchers with an interest in computational approaches to the humanities. Learn more about the people behind CHR[YEAR] and the organisation of CHR:
+The Computational Humanities Research (CHR) community is an international and interdisciplinary community that supports researchers with an interest in computational approaches to the humanities. Learn more about the people behind CHR2027 and the organisation of CHR:
 <div class="space" style="padding-top:0.5%;"></div>
 <div class="banner-grid four-items">
     <a href="/people" class="banner" aria-label="View People section">

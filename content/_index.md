@@ -1,8 +1,13 @@
 ---
-title: "CHR [YEAR]"
+title: "CHR 2027"
 date: 2019-12-15T11:12:14+01:00
 ---
 <style>
+
+body {
+  background-color: #f8f9fa;
+}
+
   h1, h2 {
     margin-top: 1em; 
     margin-bottom: 0rem;
@@ -79,7 +84,7 @@ date: 2019-12-15T11:12:14+01:00
 }
 
 .banner {
-    background-color: #002147;
+    background-color: var(--color1);
     color: white;
     padding: 15px;  /* minimal padding */
     border-radius: 10px;
@@ -107,7 +112,7 @@ date: 2019-12-15T11:12:14+01:00
     height: 36px;
     border-radius: 50%;
     background-color: rgba(255, 255, 255, 0.9);
-    color: #002147;
+    color: var(--color1);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -117,15 +122,60 @@ date: 2019-12-15T11:12:14+01:00
 }
 
 .banner:hover {
-    background-color: #4b0033;
+    background-color: var(--color2);
 }
 
 .banner:hover .arrow {
     background-color: white;
-    color: #4b0033;
+    color: var(--color2);
 }
 
-@media (max-width: 480px) {a
+/* Hero banner section */
+.hero-banner {
+    position: relative;
+    padding: 0;
+    height: 22rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 0px;
+    overflow: hidden;
+}
+
+/* Background image within page bounds */
+.hero-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('/images/deansgate.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+    z-index: 1;
+}
+
+/* Overlay for better text readability */
+.hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.75);
+    z-index: 2;
+}
+
+.hero-banner .hero-content {
+    position: relative;
+    z-index: 3;
+}
+
+
+@media (max-width: 480px) {
     .banner h2 {
         font-size: 1rem;
     }
@@ -134,16 +184,20 @@ date: 2019-12-15T11:12:14+01:00
         width: 28px;
         height: 28px;
     }
+    
+    .hero-banner {
+        padding: 2rem 1rem;
+    }
 }
 </style>
 
-<h2 class="center"><b><span style="text-align:center";>[NUMBER] Conference on</br> Computational Humanities Research</span></b></h2>
+<h2 class="center"><b><span style="text-align:center";>Seventh Conference on</br> Computational Humanities Research</span></b></h2>
 
 <h3 class="center">
     <b><span style="text-align:center; font-size:1.3em;"> <!-- make a little bigger than H3 -->
-    [DATE]
+    <!-- 2027 -->
     </span></b>
-    </h3>
+</h3>
 
 <div class="space" style="padding-top:0.5%;"></div>
 
@@ -151,10 +205,10 @@ The Computational Humanities Research (CHR) community is an international and
 interdisciplinary community that supports researchers with an interest in computational
 approaches to the humanities. 
 
-The [YEAR] edition of the Computational Humanities Research conference will take
-place on **[DATE]** at [LOCATION]. Read more about CHR[YEAR]:
+The 2027 edition of the Computational Humanities Research conference will take
+place in Machester UK. Read more about CHR 2027:
 
-<div class="space" style="padding-top:0.5%;"></div>
+<!-- <div class="space" style="padding-top:0.5%;"></div>
 
 <div class="banner-grid">
     <a href="/cfp" class="banner" aria-label="View Call for Papers">
@@ -169,4 +223,4 @@ place on **[DATE]** at [LOCATION]. Read more about CHR[YEAR]:
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-</div>
+</div> -->

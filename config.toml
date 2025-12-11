@@ -1,27 +1,27 @@
-baseURL = "http://[YEAR].computational-humanities-research/"
+baseURL = "http://2027.computational-humanities-research/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Computational Humanities Research [YEAR]"
+title = "Computational Humanities Research 2027"
 theme = "chr"
 publishDir = "docs"
 
 [params]
   customCSS = ["css/custom.css"]
-  short = "CHR[YEAR]"
+  short = "CHR2027"
 
 [menu]
 
-  [[menu.main]]
-     identifier = "cfp"
-     name = "CfP"
-     url = "/cfp"
-     weight = -2000
+  # [[menu.main]]
+    # identifier = "cfp"
+    # name = "CfP"
+    # url = "/cfp"
+    # weight = -2000
 
-   [[menu.main]]
-     identifier = "news"
-     name = "News"
-     url = "/news"
-     weight = -1850
+   # [[menu.main]]
+     # identifier = "news"
+     # name = "News"
+     # url = "/news"
+     # weight = -1850
 
    # [[menu.main]]
      # identifier = "venue"
@@ -41,17 +41,6 @@ publishDir = "docs"
       url = "/about"
       weight = -1000
 
-   # [[menu.main]]
-     # identifier = "CHR2025"
-     # name = "CHR2025"
-     # url = "/hosting"
-     # weight = -500
-
-    # [[menu.main]]
-      # identifier = "journal"
-      # name = "Journal" 
-      # url = "/journal"
-      # weight = -100 
 
 [markup.goldmark.renderer]
 unsafe = true

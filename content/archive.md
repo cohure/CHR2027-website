@@ -3,6 +3,14 @@ title: "Past Events"
 date: 2021-02-19T16:05:25+01:00
 ---
 
+### CHR2025
+[CHR2025](https://2025.computational-humanities-research.org/) was a three-day
+conference held on December 10 to 12, 2025. The program committee and organizers
+accepted 97 papers, which have been published with the Anthology of Computers and the Humanities:
+https://anthology.ach.org/volumes/vol0003/. See
+https://2025.computational-humanities-research.org/ for more information about
+CHR2025.
+
 ### CHR2024
 [CHR2024](https://2024.computational-humanities-research.org/) was a three-day
 conference held on December 4 to 6, 2024. The program committee and organizers
