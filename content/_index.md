@@ -134,7 +134,7 @@ body {
 .hero-banner {
     position: relative;
     padding: 0;
-    height: 22rem;
+    height: 40rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -150,23 +150,36 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url('/images/deansgate.webp');
+    background-image: url('/images/manchester2_vectorized.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    filter: grayscale(100%);
     z-index: 1;
 }
 
-/* Overlay for better text readability */
+/* SVG gradient styling */
+.hero-background::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, var(--color2) 10%, var(--color1) 100%);
+    mask: url('/images/manchester2_vectorized.svg') center/cover no-repeat;
+    -webkit-mask: url('/images/manchester2_vectorized.svg') center/cover no-repeat;
+    z-index: 2;
+}
+
+/* Light overlay for text readability */
 .hero-overlay {
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(255, 255, 255, 0.75);
-    z-index: 2;
+    background: rgba(255, 255, 255, 0.1);
+    z-index: 1;
 }
 
 .hero-banner .hero-content {
@@ -181,6 +194,8 @@ body {
 @media (max-width: 767px) {
     .hero-banner {
         height: 16rem;
+        align-items: center;
+        justify-content: center;
     }
     
     .hero-banner .conftitle {
@@ -191,6 +206,10 @@ body {
     .hero-banner .container {
         width: 100%;
         padding: 0 1rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
     }
 }
 
@@ -211,7 +230,15 @@ body {
 }
 </style>
 
-<h2 class="center"><b><span style="text-align:center";>Seventh Conference on</br> Computational Humanities Research</span></b></h2>
+<h2 class="center" style="margin-top: -5rem;"><b><span style="text-align:center";>Seventh Conference on</br> Computational Humanities Research</span></b></h2>
+
+<style>
+@media (max-width: 767px) {
+    h2.center {
+        margin-top: 1rem !important;
+    }
+}
+</style>
 
 <h3 class="center">
     <b><span style="text-align:center; font-size:1.3em;"> <!-- make a little bigger than H3 -->
