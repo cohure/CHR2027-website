@@ -226,7 +226,7 @@ interdisciplinary community that supports researchers with an interest in comput
 approaches to the humanities. 
 
 The 2027 edition of the Computational Humanities Research conference will take
-place in Machester UK. Read more about CHR 2027:
+place in Manchester, UK, in early January. The event will be organised by the [**Centre for Digital Humanities, Cultures and Media**](https://www.digital-humanities.manchester.ac.uk/) at the University of Manchester.
 
 <!-- <div class="space" style="padding-top:0.5%;"></div>
 
