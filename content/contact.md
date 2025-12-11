@@ -13,5 +13,4 @@ We are using Google Groups for this. You can join the Group using either a Gmail
 
 ### Contact
 For questions, ideas, or support, contact the
-[organizers](mailto:info@computational-humanities-research.org) or drop us a line on the
-[forum](https://discourse.computational-humanities-research.org).
+[organizers](mailto:info@computational-humanities-research.org).
