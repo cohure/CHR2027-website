@@ -420,3 +420,66 @@ a {
 .brand-logo {
     text-decoration: none !important;
 }
+
+.banner {
+  background-color: white;
+  color: var(--color3);
+  padding: 15px; /* minimal padding */
+  border-radius: 0;
+  border: 2px solid var(--color2);
+  display: flex;
+  flex-direction: row; /* row to place arrow beside text */
+  align-items: center;
+  justify-content: space-between; /* space between text and arrow */
+  text-decoration: none;
+  transition: all 0.3s ease;
+  height: 100%; /* controlled height */
+  width: 100%; /* fixed width for consistency */
+  text-decoration: none !important;
+}
+
+.banner h2 {
+  font-size: 1.2rem;
+  margin: 0;
+  color: var(--color1);
+  text-align: left; /* align text to left for better flow */
+}
+
+.banner .arrow {
+  margin-left: 10px;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.9);
+  color: var(--color3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  transition: all 0.3s ease;
+  /* box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); */
+}
+
+.banner:hover h2 {
+  color: white;
+}
+
+.banner:hover {
+  background-color: var(--color1);
+  border-color: var(--color1);
+}
+
+.banner:hover .arrow {
+  color: var(--accent);
+}
+
+@media (max-width: 480px) {
+  a .banner h2 {
+    font-size: 1rem;
+  }
+
+  .banner .arrow {
+    width: 28px;
+    height: 28px;
+  }
+}

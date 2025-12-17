@@ -77,57 +77,10 @@ body {
 
 /* define banner for about page */
 .banner-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 20px;
-    padding: 0px;
-}
-
-.banner {
-    background-color: var(--color1);
-    color: white;
-    padding: 15px;  /* minimal padding */
-    border-radius: 10px;
-    display: flex;
-    flex-direction: row; /* row to place arrow beside text */
-    align-items: center;
-    justify-content: space-between; /* space between text and arrow */
-    text-decoration: none;
-    transition: all 0.3s ease;
-    height: 100%;  /* controlled height */
-    width: 100%; /* fixed width for consistency */
-    text-decoration: none !important;
-}
-
-.banner h2 {
-    font-size: 1.2rem;
-    margin: 0;
-    color: white;
-    text-align: left; /* align text to left for better flow */
-}
-
-.banner .arrow {
-    margin-left: 10px;
-    width: 36px;
-    height: 36px;
-    border-radius: 50%;
-    background-color: rgba(255, 255, 255, 0.9);
-    color: var(--color1);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 1.2rem;
-    transition: all 0.3s ease;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-}
-
-.banner:hover {
-    background-color: var(--color2);
-}
-
-.banner:hover .arrow {
-    background-color: white;
-    color: var(--color2);
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 250px));
+  justify-content: center;
+  gap: 20px;
 }
 
 /* Hero banner section */
@@ -232,14 +185,6 @@ body {
 
 <h2 class="center" style="margin-top: -5rem;"><b><span style="text-align:center";>Seventh Conference on</br> Computational Humanities Research</span></b></h2>
 
-<style>
-@media (max-width: 767px) {
-    h2.center {
-        margin-top: 1rem !important;
-    }
-}
-</style>
-
 <h3 class="center">
     <b><span style="text-align:center; font-size:1.3em;"> <!-- make a little bigger than H3 -->
     <!-- 2027 -->
@@ -248,24 +193,56 @@ body {
 
 <div class="space" style="padding-top:0.5%;"></div>
 
-The Computational Humanities Research (CHR) community is an international and
-interdisciplinary community that supports researchers with an interest in computational
-approaches to the humanities. 
+<p style="text-align: justify">
+The Computational Humanities Research (CHR) community is an international and interdisciplinary community that supports researchers with an interest in computational
+approaches to the humanities.
+</p>
 
+<p style="text-align: justify">
 The 2027 edition of the Computational Humanities Research conference will take
-place in Manchester, UK, in early January. The event will be organised by the [**Centre for Digital Humanities, Cultures and Media**](https://www.digital-humanities.manchester.ac.uk/) at the University of Manchester.
+place in Manchester, UK, in early January. The event will be organised by the <a href="https://www.digital-humanities.manchester.ac.uk/">
+    Centre for Digital Humanities, Cultures and Media
+  </a> at the University of Manchester.
+</p>
+
+<div class="space" style="padding-top:0.5%;"></div>
+
+<div class="banner-grid">
+<!-- MORE BUTTONS
+    <a href="/workshops" class="banner" aria-label="Workshops">
+        <h2>Workshops</h2>
+        <div class="banner-footer">
+            <div class="arrow" aria-hidden="true">→</div>
+        </div>
+    </a>
+    <a href="/programme" class="banner" aria-label="View Programme">
+        <h2>Programme</h2>
+        <div class="banner-footer">
+            <div class="arrow" aria-hidden="true">→</div>
+        </div>
+    </a>
+-->
+    <a href="/people" class="banner" aria-label="View People">
+        <h2>People</h2>
+        <div class="banner-footer">
+            <div class="arrow" aria-hidden="true">→</div>
+        </div>
+    </a>
+    <a href="https://computational-humanities-research.org/" class="banner" aria-label="About CHR">
+        <h2>About CHR</h2>
+        <div class="banner-footer">
+            <div class="arrow" aria-hidden="true">→</div>
+        </div>
+    </a>
+</div>
+
+<div class="space" style="padding-top:0.5%;"></div>
 
 <!-- <div class="space" style="padding-top:0.5%;"></div>
 
 <div class="banner-grid">
     <a href="/cfp" class="banner" aria-label="View Call for Papers">
         <h2>Call for Papers</h2>
-        <div class="banner-footer">
-            <div class="arrow" aria-hidden="true">→</div>
-        </div>
-    </a>
-    <a href="/people" class="banner" aria-label="View People">
-        <h2>People</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>

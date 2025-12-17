@@ -48,6 +48,7 @@ date: 2021-02-19T16:05:25+01:00
     }
 </style>
 
+<!--
 <div class="news">
     <div class="announce">
         <a href="/news/board-vacancies"><img src="/images/news/board-vacancies.jpg" alt="Foto of buildings in Luxembourg, covered in snow"></a>
@@ -59,3 +60,4 @@ Looking to make an impact in Computational Humanities? The Society of Computatio
             <a class="link-button" href="/news/board-vacancies" aria-label="Press to read about the two vacancies in the CHR boardg">Read More</a>
         </div>
     </div>
+<--

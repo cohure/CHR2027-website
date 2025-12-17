@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers on Computational Humanities Research 2027</title>
+    <link>http://localhost:1313/papers/</link>
+    <description>Recent content in Papers on Computational Humanities Research 2027</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/papers/paper90/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper90/</guid>
+      <description>&lt;style&gt;    &#xA;    h2 {&#xA;        margin-top: 0;&#xA;        margin-bottom: 1.5rem;&#xA;        line-height: 1.3;&#xA;    }&#xA;    &#xA;    h3 {&#xA;        margin-top: 2rem;&#xA;        margin-bottom: 1rem;&#xA;        font-size: 1.4rem;&#xA;        font-weight:bold;&#xA;    }&#xA;    &#xA;    .metadata {&#xA;        background-color: rgba(96,24,67,0.03);&#xA;        padding: 1rem;&#xA;        font-size:0.8rem;&#xA;        border-radius: 6px;&#xA;        margin-bottom: 2rem;&#xA;    }&#xA;    &#xA;    .metadata p {&#xA;        margin: 0.5rem 0;&#xA;    }&#xA;    &#xA;    .abstract {&#xA;        text-align: justify;&#xA;        font-size:0.8rem;&#xA;        padding: 1rem;&#xA;        background-color: rgba(96,24,67,0.03);&#xA;        border-left: 4px solid #2c5282;&#xA;        border-radius: 0 6px 6px 0;&#xA;    }&#xA;    &#xA;    strong {&#xA;        color: #2d3748;&#xA;        font-weight: 600;&#xA;    }&#xA;&lt;/style&gt;&#xA;&lt;main role=&#34;main&#34;&gt;&#xA;&lt;h2&gt;Animacy in German Folktales&lt;/h2&gt;&#xA;&lt;section class=&#34;metadata&#34;&gt;&#xA;&lt;p style=&#39;font-size:0.8rem&#39;&gt;&lt;i&gt;(short paper)&lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Julian Häußler, Janis von Keitz and Evelyn Gius&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
