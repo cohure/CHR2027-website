@@ -199,8 +199,8 @@ approaches to the humanities.
 </p>
 
 <p style="text-align: justify">
-The 2027 edition of the Computational Humanities Research conference will take
-place in Manchester, UK, in early January. The event will be organised by the <a href="https://www.digital-humanities.manchester.ac.uk/">
+The 7th edition of the Computational Humanities Research conference will take
+place in Manchester, UK, from <b>5 to 8 January, 2027</b>. The event will be organised by the <a href="https://www.digital-humanities.manchester.ac.uk/">
     Centre for Digital Humanities, Cultures and Media
   </a> at the University of Manchester.
 </p>
