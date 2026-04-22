@@ -222,8 +222,8 @@ place in Manchester, UK, from <b>5 to 8 January, 2027</b>. The event will be org
         </div>
     </a>
 -->
-    <a href="/people" class="banner" aria-label="View People">
-        <h2>People</h2>
+    <a href="/cfp" class="banner" aria-label="View Call for Papers">
+        <h2>CFP</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>

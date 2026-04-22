@@ -5,9 +5,9 @@ draft: false
 
 ### Programme Chairs
 
-- Evelyn Gius, Technical University Darmstadt, Germany
-- Giovanni Colavizza, University of Copenhagen and University of Bologna, Denmark and Italy
-- Kaspar Beelen, School of Advanced Study, University of London, UK
+- Evelyn Gius _(Technical University Darmstadt, Germany)_
+- Giovanni Colavizza _(University of Copenhagen, Denmark  University of Bologna, Italy)_
+- Kaspar Beelen _(School of Advanced Study, University of London, UK)_
 
 **Contact:** pc[at]computational-humanities-research[dot]org
 
