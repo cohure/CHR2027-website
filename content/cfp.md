@@ -3,10 +3,15 @@ title: "Call for Papers"
 draft: false
 ---
 
-In the arts and humanities, the use of computational, statistical, and mathematical approaches has considerably increased in recent years. This research is characterised by the use of formal methods and the construction of explicit, computational models. This includes quantitative, statistical approaches, but also more generally computational methods for processing and analysing data, as well as theoretical reflections on these approaches. Despite the undeniable growth of this research area, many scholars still struggle to find suitable research-oriented venues to present and publish computational work that does not lose sight of traditional modes of inquiry in the arts and humanities. This is the scholarly niche that the CHR conference aims to fill. More precisely, the conference aims at
+In recent years, the arts and humanities have seen a significant increase in the use of computational, statistical, and mathematical approaches. This kind of research is distinguished by its reliance on formal methods and the development of explicit, computational models – ranging from quantitative and statistical techniques to broader computational methods for processing and analysing data, as well as theoretical reflections on these approaches.
 
-- Building a community of scholars working on humanities research questions, relying on a wide range of computational and quantitative approaches to humanities data in all its forms. We consider this community to be complementary to the digital humanities landscape. We actively seek, welcome, and encourage people with diverse backgrounds, experiences, and identities to join. This includes, but is not limited to, scholars from underrepresented groups, different academic paths, and those who are contributing novel perspectives to the computational humanities landscape.
-- Promoting good practices through sharing “research stories”. Such good practices may include, for instance, the publication of code and data in order to support transparency and replication of studies; pre-registering research design to present theoretical justification, hypotheses, and proposed statistical analysis; or a redesign of the reviewing process for interdisciplinary studies that rely on computational approaches to answer questions relevant to the humanities.
+**The CHR conference seeks to be a venue where scholars can present and publish computational work while maintaining a strong connection to traditional humanities inquiry.** 
+
+More specifically, the conference has two key goals:
+
+- **Building an inclusive community** of researchers who apply computational and quantitative methods to humanities data in all its forms. We see this community as complementary to the broader digital humanities landscape and actively encourage participation from anyone bringing fresh perspectives to computational humanities.
+- **Promoting excellent research.** This includes fostering transparency and reproducibility through open code and data, supporting research designs that clarify theoretical frameworks and methodologies, and better accommodating interdisciplinary work that blends computational methods with humanities-driven questions.
+
 
 ### Topics of interest
 
@@ -84,11 +89,13 @@ Any information which might help identify authors should be anonymised. To this 
 ### Anonymity period
 
 The anonymity period runs until the notification of acceptance (October 23). To support double-blind review, authors are asked not to promote their submissions publicly (e.g. via social media, blogs, or mailing lists) during this period. However, CHR recognises the importance of early visibility, particularly for early-career researchers and interdisciplinary collaborations. Authors may post preprints (e.g., on arXiv, Zenodo, HAL, institutional repositories) before submission, provided they do not link to these from the anonymised paper.
+
 Reviewers will be instructed to ignore any external identifiers and focus strictly on the anonymised submission. We also encourage empirical feedback: reviewers will be asked if they believe they can identify the authors and why, to help us assess how anonymity functions in practice.
 
 ### Usage of AI
+Emerging technologies are changing how some may conduct research. Authors are welcome to use any tool to conduct their research and prepare their papers, but they are responsible for ensuring that all content submitted is correct, sound, and original. 
 
-Authors who employ AI are encouraged to add a reflection on the role of AI for their research practice to the submission.
+Authors who make use of generative and/or agentic AI in their research practice, such as for literature search, programming, and writing, are encouraged to add a reflection on their use of AI in their submission.
 
 ### Questions?
 
