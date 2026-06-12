@@ -17,6 +17,7 @@ questions by email to info@computational-humanities-research.org.
 Draft proposals should include information on the following:
 
 1. Estimates of the anticipated number of registrants
+
 2. Location
     - accessibility;
     - conference venue, e.g., university, hotel or convention center;
@@ -35,14 +36,18 @@ Draft proposals should include information on the following:
     - Rooms and capacities for plenary and parallel sessions (2-3), tutorials, workshops,
     posters, exhibits, demos, small meetings, and registration. 
     - Please provide a listing of available potential room spaces for plenary
-    sessions (e.g. ~250 people), parallel sessions (e.g. 100+ people) and
+    sessions (e.g. ~250 people), parallel sessions (e.g. ~100 people) and
     workshop/tutorial spaces of a wide variety of sizes. 
     
 5. Detailed plan for organizing a hybrid conference
+
 6. High-speed, all-ports-open, easy-to-use internet access
+
 7. AV equipment
+
 8. Catering, including breaks, receptions, poster sessions
     - Please provide sample prices of different kinds of coffee/refreshment breaks
+
 9. Local organization team
     - chair/co-chair, committee, PCO, volunteer labor, registration handling;
     - description of any experience the team has had in organizing academic
