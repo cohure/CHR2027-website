@@ -68,7 +68,7 @@ We welcome submissions from scholars of diverse backgrounds and particularly fro
 
 **No extension of the submission deadline is planned.**
 
-Submissions should be written in English and must be formatted according to the LaTeX template produced by ACH ([click to download ach-latex-en.zip](https://anthology.ach.org/resources/ach-latex-en.zip)). We recommend working in the online environment Overleaf. To start using Overleaf, open the following template file, select “Open as Template”, and sign in or create a new account: [LaTeX Overleaf template](https://www.overleaf.com/latex/templates/ach-proceedings-paper-template/znmzmfngrwpd).
+Submissions should be written in English and must be formatted according to the LaTeX template produced by ACH ([click to download ach-latex-template.zip](https://anthology.ach.org/resources/ach-latex-template.zip)). We recommend working in the online environment Overleaf. To start using Overleaf, open the following template file, select “Open as Template”, and sign in or create a new account: [LaTeX Overleaf template](https://www.overleaf.com/latex/templates/ach-proceedings-paper-template/znmzmfngrwpd).
 
 Submissions are to be submitted anonymously. All submissions will be refereed through a double-blind peer review process with final acceptance decisions made by the Programme Chairs. Submissions that do not use the required template, are not anonymised, or lack references will be rejected without review. The review guidelines can be found [here](https://2027.computational-humanities-research.org/reviewer-instructions).
 
