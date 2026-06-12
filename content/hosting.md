@@ -1,16 +1,16 @@
 ---
-title: "Call for Bids to Host CHR2025"
+title: "Call for Bids to Host the Next CHR Conference"
 date: 2019-12-15T11:12:28+01:00
 draft: true
 ---
 
 The board of the Computational Humanities Society hereby invites proposals to
-host the annual CHR conference in December 2025. Some of the proposals will also
-be considered for CHR in 2026 and beyond. The number of (in-person) attendees to
-a CHR conference is likely to fall in the range of 150-250. 
+host the annual CHR conference in December 2027. Some of the proposals will also
+be considered for CHR in 2028 and beyond. The number of (in-person) attendees to
+a CHR conference is likely to fall in the range of 200-250. 
 
 Deadline: November 10, 2024. We will announce the next conference’s location
-during CHR2024 in Aarhus in December 2024. Please send formal proposals or any
+during CHR2027 in Manchester in January 2027. Please send formal proposals or any
 questions by email to info@computational-humanities-research.org. 
 
 ### Proposal format
@@ -22,20 +22,20 @@ Draft proposals should include information on the following:
     - conference venue, e.g., university, hotel or convention center;
     - accommodation;
     - dining options;
-    - social event venue;
+    - social event (conference dinner) venue;
     - capability to host the registrants predicted
 
 3. Proposed dates
-    - We aim for a three-day conference, preceded by one day for workshops.
+    - We aim for a three-day conference (Wed-Fri), preceded by one day for workshops (Tue).
     - Religious and local national holidays should be avoided, as much as possible.
     - Please list available conference weeks at the proposed venue in December,
     sorted in descending order of preference. 
     
 4. Meeting venues
-    - Rooms and capacities for plenary and parallel sessions, tutorials, workshops,
+    - Rooms and capacities for plenary and parallel sessions (2-3), tutorials, workshops,
     posters, exhibits, demos, small meetings, and registration. 
     - Please provide a listing of available potential room spaces for plenary
-    sessions (e.g. 200+ people), breakout sessions (e.g. 50+ people) and
+    sessions (e.g. ~250 people), parallel sessions (e.g. 100+ people) and
     workshop/tutorial spaces of a wide variety of sizes. 
     
 5. Detailed plan for organizing a hybrid conference
@@ -49,12 +49,13 @@ Draft proposals should include information on the following:
     conferences, including the number of participants at those conferences 
 
 10. Local sponsorship
-    - Physical disability access (i.e., mobility access)
 
-11. Social event
+11. Physical disability access (i.e., mobility access)
+
+12. Social event
     - Provide a list of possible locations for the mid-conference evening social event.
 
-12. Estimated costs
+13. Estimated costs
     - Provide a site-specific expenses spreadsheet, specifying approximate total
     costs for each component of the conference (main conference, workshops,
     social program, overheads). 
