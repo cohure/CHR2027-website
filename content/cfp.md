@@ -72,7 +72,7 @@ Submissions should be written in English and must be formatted according to the 
 
 Submissions are to be submitted anonymously. All submissions will be refereed through a double-blind peer review process with final acceptance decisions made by the Programme Chairs. Submissions that do not use the required template, are not anonymised, or lack references will be rejected without review. The review guidelines can be found [here](https://2027.computational-humanities-research.org/reviewer-instructions).
 
-Papers should be submitted as PDF documents via the EasyChair conference management system: **[Forthcoming]**.
+Papers should be submitted as PDF documents via the **[EasyChair](https://easychair.org/my/conference?conf=chr2027)** conference management system.
 
 At least one author of each accepted submission must register for the conference and present the paper or poster.
 
