@@ -1,20 +1,27 @@
 ---
 title: "Call for Bids to Host the Next CHR Conference"
-date: 2019-12-15T11:12:28+01:00
+date: 2026-06-30T11:12:28+01:00
 draft: true
 ---
 
 The board of the Computational Humanities Society hereby invites proposals to
-host the annual CHR conference in December 2027. Some of the proposals will also
-be considered for CHR in 2028 and beyond. The number of (in-person) attendees to
-a CHR conference is likely to fall in the range of 200-250. 
+host the annual CHR conference. Bids cover the coming three editions (December
+2027, December 2028, and December 2029). A single bid may apply to one, two, or
+all three of these years, and bidders should indicate for each year whether they
+would be willing and able to host, so a bid is not limited to the next edition
+alone. The number of (in-person) attendees to a CHR conference is likely to fall
+in the range of 200-250.
 
-Deadline: November 10, 2024. We will announce the next conference’s location
-during CHR2027 in Manchester in January 2027. Please send formal proposals or any
-questions by email to info@computational-humanities-research.org. 
+The process has two stages. First, an expression of interest is due by September
+15, 2026. This is a brief message identifying the proposed location, the
+organizing team, and the year or years for which you wish to bid. Second, full
+proposals (following the format below) are due by November 10, 2026. We will
+announce the selected hosts during the CHR conference in Manchester in January
+2027. Please send expressions of interest, full proposals, or any questions by
+email to info@computational-humanities-research.org.
 
 ### Proposal format
-Draft proposals should include information on the following:
+Full proposals should include information on the following:
 
 1. Estimates of the anticipated number of registrants
 
@@ -29,9 +36,9 @@ Draft proposals should include information on the following:
 3. Proposed dates
     - We aim for a three-day conference (Wed-Fri), preceded by one day for workshops (Tue).
     - Religious and local national holidays should be avoided, as much as possible.
-    - Please list available conference weeks at the proposed venue in December,
-    sorted in descending order of preference. 
-    
+    - Please list available conference weeks in December at the proposed venue,
+    for each year you are bidding for, sorted in descending order of preference.
+
 4. Meeting venues
     - Rooms and capacities for plenary and parallel sessions (2-3), tutorials, workshops,
     posters, exhibits, demos, small meetings, and registration. 
@@ -69,3 +76,15 @@ Draft proposals should include information on the following:
     - Please give figures in both local currency and euros, and specify the
       exchange rate. 
 
+### Evaluation
+Proposals are assessed by the board on two grounds. The first is the information
+requested in the proposal format above. The board weighs each component on its
+merits (location and accessibility, the proposed dates, meeting venues, the
+hybrid plan, internet and AV provision, catering, the local organization team and
+its prior experience, sponsorship, disability access, the social event, and the
+estimated costs, including the support offered to PhD students and early-career
+participants). The second is geographical diversity across editions. Because a
+bid may cover several years, the board considers where recent and forthcoming
+conferences have been held and aims to rotate the conference across regions over
+time. Where two bids are otherwise comparable, geographical diversity is the
+deciding factor.
