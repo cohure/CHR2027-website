@@ -50,6 +50,16 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="news">
     <div class="announce">
+        <a href="https://computational-humanities-research.org/hosting_2027"><img src="/images/CHR announcements_2027.jpeg" alt="Call for Bids"></a>
+        <div class="content">
+            <h3>Call for Bids to host CHR</h3>
+            <p>
+The board of the Computational Humanities Society hereby invites proposals to host the annual CHR conference. ...
+            </p>
+            <a class="link-button" href="https://computational-humanities-research.org/hosting_2027" aria-label="Press to read the call">Read More</a>
+        </div>
+    </div>
+    <div class="announce">
         <a href="/cfp"><img src="/images/CFP2027.001.jpeg" alt="Call for Papers"></a>
         <div class="content">
             <h3>CALL FOR PAPERS</h3>
