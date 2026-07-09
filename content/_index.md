@@ -118,7 +118,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(135deg, var(--color2) 10%, var(--color1) 100%);
+    background: linear-gradient(135deg, var(--color1) 10%, var(--color2) 100%);
     mask: url('/images/manchester2_vectorized.svg') center/cover no-repeat;
     -webkit-mask: url('/images/manchester2_vectorized.svg') center/cover no-repeat;
     z-index: 2;
