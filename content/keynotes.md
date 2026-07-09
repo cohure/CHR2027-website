@@ -1,6 +1,6 @@
 ---
 title: "Keynote Speakers"
-date: 2026-07-10T10:00:00+01:00
+date: 2026-07-09T10:00:00+01:00
 ---
 
 We are delighted to announce the first keynote speakers for **Computational Humanities Research 2027 (CHR2027)**.

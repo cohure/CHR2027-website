@@ -172,7 +172,7 @@ h1, h2, h3, h4, h5, nav, footer {
 .page-border {
     padding: .8rem;
     background-color: var(--color1);
-    background-image: linear-gradient(135deg, var(--color1) 10%, var(--color2) 100%);
+    background-image: linear-gradient(135deg, var(--color2) 10%, var(--color1) 100%);
 }
 
 nav .brand-logo {
