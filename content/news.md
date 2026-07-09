@@ -49,6 +49,7 @@ date: 2021-02-19T16:05:25+01:00
 </style>
 
 <div class="news">
+    
     <div class="announce">
     <a href="https://www.lancaster.ac.uk/global-affairs/people/katherine-mcdonough">
         <img src="/images/keynotes2027.png" alt="CHR2027 Keynote Speakers">
@@ -64,7 +65,7 @@ We are delighted to announce the first keynote speakers for <strong>CHR2027</str
             Read More
         </a>
     </div>
-</div>
+    </div>
     <div class="announce">
         <a href="https://computational-humanities-research.org/hosting_2027"><img src="/images/CHR announcements_2027.jpeg" alt="Call for Bids"></a>
         <div class="content">
@@ -85,4 +86,4 @@ The Call for Papers for the Computational Humanities Research 2027 conference is
             <a class="link-button" href="/cfp" aria-label="Press to read the Call for Papers">Read More</a>
         </div>
     </div>
-    
+</div>
