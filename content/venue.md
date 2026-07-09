@@ -1,49 +1,47 @@
 ---
 title: "Venue"
-draft: true
+draft: false
 ---
 
-<!--html settings for banner-->
 <style>
-/* define banner for about page */
 .banner-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
     padding: 0px;
+    margin: 1rem 0 2rem;
 }
 
-/* special case for 4 elements - 2x2 */
 .banner-grid.four-items {
     grid-template-columns: repeat(2, 1fr);
-}
-
-/* special case for 6 elements - 3x3 */
-.banner-grid.six-items {
-    grid-template-columns: repeat(3, 1fr);
 }
 
 .banner {
     background-color: #002147;
     color: white;
-    padding: 15px;  /* minimal padding */
+    padding: 15px;
     border-radius: 10px;
     display: flex;
-    flex-direction: row; /* row to place arrow beside text */
+    flex-direction: row;
     align-items: center;
-    justify-content: space-between; /* space between text and arrow */
+    justify-content: space-between;
     text-decoration: none;
     transition: all 0.3s ease;
-    height: 100%;  /* controlled height */
-    width: 100%; /* fixed width for consistency */
+    height: 100%;
+    width: 100%;
     text-decoration: none !important;
+}
+
+.banner-disabled {
+    background-color: #5f6670;
+    cursor: default;
 }
 
 .banner h2 {
     font-size: 1.2rem;
     margin: 0;
     color: white;
-    text-align: left; /* align text to left for better flow */
+    text-align: left;
 }
 
 .banner .arrow {
@@ -65,12 +63,16 @@ draft: true
     background-color: #4b0033;
 }
 
+.banner-disabled:hover {
+    background-color: #5f6670;
+}
+
 .banner:hover .arrow {
     background-color: white;
     color: #4b0033;
 }
 
-@media (max-width: 480px) {a
+@media (max-width: 480px) {
     .banner h2 {
         font-size: 1rem;
     }
@@ -80,81 +82,62 @@ draft: true
         height: 28px;
     }
 
-/* ensure banners - whether four-item or not, is a list on mobile */
     .banner-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 20px;
-    padding: 0px;
-}
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    }
 
-.banner-grid.four-items {
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-}
+    .banner-grid.four-items {
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    }
 }
 </style>
 
+The CHR2027 conference will take place at **The University of Manchester**. Manchester is a major UK city with a rich cultural, industrial, scientific, and creative history, and the University offers a large city-centre campus with teaching, research, cultural, and visitor facilities.
 
-<!--WRITTEN CONTENT STARTS HERE-->
-The CHR2024 Conference will be held on <span style="font-weight: 700;">December 4-6</span> with workshops taking place on the December 3rd. The conference will take place in <span style="font-weight:700;">Aarhus, Denmark at Aarhus University</span>, in their historical buildings located in the city center, close to the vibrant urban environment as well as nature, including parks, forest and the coastline. 
-
-The main address of the CHR2024 conference is [Bartholins Allé 8, 8000 Aarhus C](https://maps.app.goo.gl/9sM2wLpzXuNjrWNr8), where the registration and breakfast take place on the first day.
+Further details about rooms, registration, and social events will be added as the programme is confirmed.
 
 <div class="space" style="padding-top:1%;"></div>
 
-<h3 style="font-weight:bold;">Conference Information</h3>
+<h3 style="font-weight:bold;">Practical Information</h3>
 
-Need tips on public transport in Aarhus or details about the conference dinner? Get all practical information about CHR2024: 
+Quick access to practical information about CHR2027:
 
-<div class="banner-grid four-items">
-    <a href="/venue/finding-the-venue" class="banner" aria-label="Press to get an overview of the buildings for CHR2024">
-        <h2>Finding the Venue</h2>
+<div class="banner-grid">
+    <a href="https://www.manchester.ac.uk/about/" class="banner" aria-label="Read about The University of Manchester">
+        <h2>Discover the University</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    <a href="/venue/getting-around-aarhus" class="banner" aria-label="Press to find out how to get around Aarhus">
-        <h2>Getting around in Aarhus</h2>
+    <a href="https://www.manchester.ac.uk/about/maps/accommodation/" class="banner" aria-label="Read accommodation and travel information from The University of Manchester">
+        <h2>Accommodation and Travel</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    <a href="/venue/conference-dinner" class="banner" aria-label="Press to learn more about the Conference Dinner at Restaurant Havnær">
-        <h2>About the Conference Dinner</h2>
+    <div class="banner banner-disabled" aria-label="Registration information to be confirmed">
+        <h2>Registration TBC</h2>
         <div class="banner-footer">
-            <div class="arrow" aria-hidden="true">→</div>
+            <div class="arrow" aria-hidden="true">…</div>
         </div>
-    </a>
-    <a href="/venue/conference-dinner#conference-dinner-transport" class="banner" aria-label="Press to learn more about how to get to the conference dinner">
-        <h2>Get to the Conference Dinner</h2>
+    </div>
+    <div class="banner banner-disabled" aria-label="Social event information to be confirmed">
+        <h2>Social Events TBC</h2>
         <div class="banner-footer">
-            <div class="arrow" aria-hidden="true">→</div>
+            <div class="arrow" aria-hidden="true">…</div>
         </div>
-    </a>
-    <a href="https://eduroam.au.dk/en/" class="banner" aria-label="Press to learn more about WIFI at the conference venue">
-        <h2>WIFI AT THE VENUE</h2>
-        <div class="banner-footer">
-            <div class="arrow" aria-hidden="true">→</div>
-        </div>
-    </a>
+    </div>
 </div>
 
 <div class="space" style="padding-top:2%;"></div>
 
+<h3 style="font-weight:bold;">Discover Manchester</h3>
 
-<h3 style="font-weight:bold;">Explore Aarhus</h3>
-
-Discover Aarhus's incredible sights and culinary delights with our curated recommendations:
+Explore Manchester's museums, galleries, music, food, neighbourhoods, and visitor information through the city's official tourism guide:
 
 <div class="banner-grid">
-    <a href="/venue/sights-in-aarhus" class="banner" aria-label="Press to explore sights and attractions in Aarhus">
-        <h2>Sightseeing in Aarhus</h2>
-        <div class="banner-footer">
-            <div class="arrow" aria-hidden="true">→</div>
-        </div>
-    </a>
-    <a href="/venue/culinary-delights-aarhus" class="banner" aria-label="Press to explore dining options in Aarhus">
-        <h2>Dining in Aarhus</h2>
+    <a href="https://www.visitmanchester.com/" class="banner" aria-label="Visit the official Manchester tourism website">
+        <h2>Visit Manchester</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
@@ -165,20 +148,21 @@ Discover Aarhus's incredible sights and culinary delights with our curated recom
 
 <h3 style="font-weight:bold;">Booking Your Stay</h3>
 
-Looking for a hotel near fellow conference attendees? Not sure how to reach Aarhus by train, bus, or plane? Learn more here:
+For accommodation and travel planning, please consult The University of Manchester's visitor guidance:
+
 <div class="banner-grid">
-    <a href="/venue/accomodation-in-aarhus" class="banner" aria-label="Press to view accommodation options in Aarhus">
-        <h2>Accommodation in Aarhus</h2>
+    <a href="https://www.manchester.ac.uk/about/maps/accommodation/" class="banner" aria-label="Read visitor accommodation and travel guidance from The University of Manchester">
+        <h2>Accommodation</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    <a href="/venue/travelling-to-aarhus" class="banner" aria-label="Press to learn about travel options to Aarhus">
-        <h2>Travelling to Aarhus</h2>
+    <a href="https://www.manchester.ac.uk/about/maps/accommodation/" class="banner" aria-label="Read visitor accommodation and travel guidance from The University of Manchester">
+        <h2>Travel</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
 </div>
 
-<div class="space" style="padding-top:3%;"></div>
+<div class="space" style="padding-top:2%;"></div>
