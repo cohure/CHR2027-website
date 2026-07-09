@@ -41,6 +41,12 @@ publishDir = "docs"
       url = "/people"
       weight = -1000
 
+   [[menu.main]]
+      identifier = "keynotes"
+      name = "Keynotes"
+      url = "/keynotes"
+      weight = -850
+
 
 [markup.goldmark.renderer]
 unsafe = true
