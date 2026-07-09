@@ -49,41 +49,48 @@ date: 2021-02-19T16:05:25+01:00
 </style>
 
 <div class="news">
-    
     <div class="announce">
-    <a href="https://www.lancaster.ac.uk/global-affairs/people/katherine-mcdonough">
-        <img src="/images/keynotes2027.png" alt="CHR2027 Keynote Speakers">
-    </a>
-    <div class="content">
-        <h3>Keynote Speakers Announced</h3>
-        <p>
-We are delighted to announce the first keynote speakers for <strong>CHR2027</strong>: 
-<strong>Katherine McDonough</strong> (Lancaster University) and 
-<strong>Fotis Jannidis</strong> (University of Würzburg). Their work spans environmental humanities, digital history, computational literary studies, and AI-enabled humanities research, reflecting the interdisciplinary spirit of CHR.
-        </p>
-        <a class="link-button" href="/keynotes" aria-label="Read more about the keynote speakers">
-            Read More
+        <a href="/keynotes">
+            <img src="/images/keynotes2027.png" alt="CHR2027 Keynote Speakers">
         </a>
-    </div>
-    </div>
-    <div class="announce">
-        <a href="https://computational-humanities-research.org/hosting_2027"><img src="/images/CHR announcements_2027.jpeg" alt="Call for Bids"></a>
         <div class="content">
-            <h3>Call for Bids to host CHR</h3>
+            <h3>Keynote Speakers Announced</h3>
             <p>
-The board of the Computational Humanities Society hereby invites proposals to host the annual CHR conference. ...
+                We are delighted to announce the first keynote speakers for <strong>CHR2027</strong>:
+                <strong>Katherine McDonough</strong> (Lancaster University) and
+                <strong>Fotis Jannidis</strong> (University of Würzburg). Their work spans environmental humanities, digital history, computational literary studies, and AI-enabled humanities research, reflecting the interdisciplinary spirit of CHR.
             </p>
-            <a class="link-button" href="https://computational-humanities-research.org/hosting_2027" aria-label="Press to read the call">Read More</a>
+            <a class="link-button" href="/keynotes" aria-label="Read more about the keynote speakers">
+                Read More
+            </a>
         </div>
     </div>
     <div class="announce">
-        <a href="/cfp"><img src="/images/CFP2027.001.jpeg" alt="Call for Papers"></a>
+        <a href="https://computational-humanities-research.org/hosting_2027">
+            <img src="/images/CHR announcements_2027.jpeg" alt="Call for Bids">
+        </a>
         <div class="content">
-            <h3>CALL FOR PAPERS</h3>
+            <h3>Call for Bids to Host CHR</h3>
             <p>
-The Call for Papers for the Computational Humanities Research 2027 conference is now out. CHR2027 continues its tradition of providing a dedicated platform for presenting computational work that bridges formal methods and traditional inquiry in the arts and humanities. ...
+                The Board of the Computational Humanities Society hereby invites proposals to host the annual CHR conference...
             </p>
-            <a class="link-button" href="/cfp" aria-label="Press to read the Call for Papers">Read More</a>
+            <a class="link-button" href="https://computational-humanities-research.org/hosting_2027" aria-label="Read the Call for Bids">
+                Read More
+            </a>
+        </div>
+    </div>
+    <div class="announce">
+        <a href="/cfp">
+            <img src="/images/CFP2027.001.jpeg" alt="Call for Papers">
+        </a>
+        <div class="content">
+            <h3>Call for Papers</h3>
+            <p>
+                The Call for Papers for the Computational Humanities Research 2027 conference is now open. CHR2027 continues its tradition of providing a dedicated platform for presenting computational work that bridges formal methods and traditional inquiry in the arts and humanities...
+            </p>
+            <a class="link-button" href="/cfp" aria-label="Read the Call for Papers">
+                Read More
+            </a>
         </div>
     </div>
 </div>
