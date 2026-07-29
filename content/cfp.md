@@ -1,5 +1,6 @@
 ---
 title: "Call for Papers"
+description: "Deadline for submissions: August 14, 2026"
 draft: false
 ---
 
