@@ -32,7 +32,7 @@ To gain further insight into paper topics, please also refer to the proceedings 
 
 ### Venue
 
-The 2027 edition of the Computational Humanities Research conference will be hosted by the [Centre for Digital Humanities, Cultures and Media](https://www.digital-humanities.manchester.ac.uk/) at the University of Manchester from 5 to 8 January 2027. The conference will be held in person. Online participation may be possible, but is not yet confirmed; further details about participation formats will be announced in due course.
+The 2027 edition of the Computational Humanities Research conference will be hosted by the [Centre for Digital Humanities, Cultures and Media](https://www.digital-humanities.manchester.ac.uk/) at the University of Manchester from 5 to 8 January 2027. The conference will be held in person in Manchester. Presentations of accepted papers, posters, lightning talks, and workshops are expected to be delivered in person at the conference; remote presentation will only be considered in exceptional unforeseen circumstances and cannot be guaranteed. Online participation may be possible, but is not yet confirmed; further details about participation formats will be announced in due course.
 
 ### Important dates
 
@@ -75,7 +75,7 @@ Submissions are to be submitted anonymously. All submissions will be refereed th
 
 Papers should be submitted as PDF documents via the **[EasyChair](https://easychair.org/my/conference?conf=chr2027)** conference management system.
 
-At least one author of each accepted submission must register for the conference and present the paper or poster.
+At least one author of each accepted submission must register for the conference and present the paper or poster in person in Manchester, unless exceptional unforeseen circumstances prevent this and alternative arrangements have been agreed with the organisers.
 
 Accepted papers will be submitted for publication online through the [Anthology of Computers and the Humanities](https://anthology.ach.org/).
 
