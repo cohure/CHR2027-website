@@ -50,6 +50,20 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="news">
     <div class="announce">
+        <a href="https://computational-humanities-research.org/news/vacancy-communications">
+            <img src="/images/vacancy-communications.jpeg" alt="Vacancy for Communications Officer">
+        </a>
+        <div class="content">
+            <h3>Vacancy for Communications Officer</h3>
+            <p>
+            The Society of Computational Humanities Research (SCHR) is seeking a Communications Officer to join its board. This newly established role reflects the Society's growth and its ...
+            </p>
+            <a class="link-button" href="https://computational-humanities-research.org/news/vacancy-communications" aria-label="Read the vacancy">
+                Read More
+            </a>
+        </div>
+    </div>
+    <div class="announce">
         <a href="/keynotes">
             <img src="/images/keynotes2027.png" alt="CHR2027 Keynote Speakers">
         </a>
@@ -58,7 +72,7 @@ date: 2021-02-19T16:05:25+01:00
             <p>
                 We are delighted to announce the first keynote speakers for <strong>CHR2027</strong>:
                 <strong>Katherine McDonough</strong> (Lancaster University) and
-                <strong>Fotis Jannidis</strong> (University of Würzburg). Their work spans environmental humanities, digital history, computational literary studies, and AI-enabled humanities research, reflecting the interdisciplinary spirit of CHR.
+                <strong>Fotis Jannidis</strong> (University of Würzburg). Their work spans ...
             </p>
             <a class="link-button" href="/keynotes" aria-label="Read more about the keynote speakers">
                 Read More
