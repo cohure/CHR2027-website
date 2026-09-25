@@ -121,6 +121,12 @@ Quick access to practical information about CHR2027:
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
+    <a href="/edi/" class="banner" aria-label="Read the equality, diversity and inclusion commitments for CHR2027">
+        <h2>Equality, Diversity and Inclusion</h2>
+        <div class="banner-footer">
+            <div class="arrow" aria-hidden="true">→</div>
+        </div>
+    </a>
     <div class="banner banner-disabled" aria-label="Registration information to be confirmed">
         <h2>Registration TBC</h2>
         <div class="banner-footer">
