@@ -115,6 +115,12 @@ Quick access to practical information about CHR2027:
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
+    <a href="/venue/accessibility/" class="banner" aria-label="Read campus accessibility information for CHR2027">
+        <h2>Campus Accessibility</h2>
+        <div class="banner-footer">
+            <div class="arrow" aria-hidden="true">→</div>
+        </div>
+    </a>
     <div class="banner banner-disabled" aria-label="Registration information to be confirmed">
         <h2>Registration TBC</h2>
         <div class="banner-footer">
