@@ -14,8 +14,8 @@ We are happy to provide additional services and support where possible. If you h
 
 The University of Manchester provides information about accessible buildings, rooms, routes, parking, and related support:
 
-- [Building and room accessibility guidance](https://www.staffnet.manchester.ac.uk/disabled-staff-support/available-support/building-and-room-accessibility/)
-- [Detailed University of Manchester access guides on AccessAble](https://www.accessable.co.uk/organisations/the-university-of-manchester)
-- [University campus interactive map](https://www.manchester.ac.uk/discover/maps/interactive-map/)
+- <a href="https://www.staffnet.manchester.ac.uk/disabled-staff-support/available-support/building-and-room-accessibility/" target="_blank" rel="noopener noreferrer">Building and room accessibility guidance</a>
+- <a href="https://www.accessable.co.uk/organisations/the-university-of-manchester" target="_blank" rel="noopener noreferrer">Detailed University of Manchester access guides on AccessAble</a>
+- <a href="https://www.manchester.ac.uk/discover/maps/interactive-map/" target="_blank" rel="noopener noreferrer">University campus interactive map</a>
 
 The AccessAble guides provide detailed information about access to individual University buildings and facilities. The University guidance also identifies resources for accessible routes and teaching spaces. Please check this page again nearer the conference for information about the specific CHR2027 venues.

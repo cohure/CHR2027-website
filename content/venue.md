@@ -103,13 +103,13 @@ Further details about rooms, registration, and social events will be added as th
 Quick access to practical information about CHR2027:
 
 <div class="banner-grid">
-    <a href="https://www.manchester.ac.uk/about/" class="banner" aria-label="Read about The University of Manchester">
+    <a href="https://www.manchester.ac.uk/about/" class="banner" target="_blank" rel="noopener noreferrer" aria-label="Read about The University of Manchester (opens in a new tab)">
         <h2>Discover the University</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    <a href="https://www.manchester.ac.uk/about/maps/accommodation/" class="banner" aria-label="Read accommodation and travel information from The University of Manchester">
+    <a href="https://www.manchester.ac.uk/about/maps/accommodation/" class="banner" target="_blank" rel="noopener noreferrer" aria-label="Read accommodation and travel information from The University of Manchester (opens in a new tab)">
         <h2>Accommodation and Travel</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
@@ -148,7 +148,7 @@ Quick access to practical information about CHR2027:
 Explore Manchester's museums, galleries, music, food, neighbourhoods, and visitor information through the city's official tourism guide:
 
 <div class="banner-grid">
-    <a href="https://www.visitmanchester.com/" class="banner" aria-label="Visit the official Manchester tourism website">
+    <a href="https://www.visitmanchester.com/" class="banner" target="_blank" rel="noopener noreferrer" aria-label="Visit the official Manchester tourism website (opens in a new tab)">
         <h2>Visit Manchester</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
@@ -163,13 +163,13 @@ Explore Manchester's museums, galleries, music, food, neighbourhoods, and visito
 For accommodation and travel planning, please consult The University of Manchester's visitor guidance:
 
 <div class="banner-grid">
-    <a href="https://www.manchester.ac.uk/about/maps/accommodation/" class="banner" aria-label="Read visitor accommodation and travel guidance from The University of Manchester">
+    <a href="https://www.manchester.ac.uk/about/maps/accommodation/" class="banner" target="_blank" rel="noopener noreferrer" aria-label="Read visitor accommodation guidance from The University of Manchester (opens in a new tab)">
         <h2>Accommodation</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    <a href="https://www.manchester.ac.uk/about/maps/accommodation/" class="banner" aria-label="Read visitor accommodation and travel guidance from The University of Manchester">
+    <a href="https://www.manchester.ac.uk/about/maps/" class="banner" target="_blank" rel="noopener noreferrer" aria-label="Read maps and travel guidance from The University of Manchester (opens in a new tab)">
         <h2>Travel</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>

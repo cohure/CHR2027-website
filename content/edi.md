@@ -34,15 +34,15 @@ Information about registration fees, any available financial support, and partic
 
 All participants are expected to follow the CHR2027 [Code of Conduct](/code-of-conduct/). It explains the expected standards of behaviour and the routes available for reporting concerns.
 
-Concerns about discrimination, harassment, bullying, hate, or other inappropriate behaviour can be raised with the CHR2027 organisers. The University of Manchester's [Report + Support service](https://www.reportandsupport.manchester.ac.uk/) also allows students, staff, visitors, and members of the public to seek support or submit an anonymous report.
+Concerns about discrimination, harassment, bullying, hate, or other inappropriate behaviour can be raised with the CHR2027 organisers. The University of Manchester's <a href="https://www.reportandsupport.manchester.ac.uk/" target="_blank" rel="noopener noreferrer">Report + Support service</a> also allows students, staff, visitors, and members of the public to seek support or submit an anonymous report.
 
 ## University of Manchester guidance
 
 CHR2027 is informed by the University's current guidance and policies:
 
-- [Equality, Diversity and Inclusion strategy](https://www.staffnet.manchester.ac.uk/equality-diversity-inclusion/about-us/our-strategy/)
-- [Equality, Diversity and Inclusion policy](https://documents.manchester.ac.uk/display.aspx?DocID=8361)
-- [Dignity at Work and Study](https://www.staffnet.manchester.ac.uk/equality-diversity-inclusion/report-and-support/dignity-at-work/)
-- [Inclusive meetings and events guidance](https://documents.manchester.ac.uk/display.aspx?DocID=71170)
+- <a href="https://www.staffnet.manchester.ac.uk/equality-diversity-inclusion/about-us/our-strategy/" target="_blank" rel="noopener noreferrer">Equality, Diversity and Inclusion strategy</a>
+- <a href="https://documents.manchester.ac.uk/display.aspx?DocID=8361" target="_blank" rel="noopener noreferrer">Equality, Diversity and Inclusion policy</a>
+- <a href="https://www.staffnet.manchester.ac.uk/equality-diversity-inclusion/report-and-support/dignity-at-work/" target="_blank" rel="noopener noreferrer">Dignity at Work and Study</a>
+- <a href="https://documents.manchester.ac.uk/display.aspx?DocID=71170" target="_blank" rel="noopener noreferrer">Inclusive meetings and events guidance</a>
 
 This page will be updated as registration, venue, and programme arrangements are finalised.

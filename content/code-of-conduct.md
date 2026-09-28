@@ -10,7 +10,7 @@ The organisers of the Computational Humanities Research conference are committed
 
 This Code of Conduct applies to speakers, session chairs, organisers, volunteers, attendees, exhibitors, and anyone else participating in CHR2027. It covers all conference-related activities, including sessions, workshops, social events, digital communications, and any online elements that may be offered.
 
-Our approach is informed by the CHR2027 [Equality, Diversity and Inclusion commitments](/edi/), the University of Manchester's [Equality, Diversity and Inclusion strategy](https://www.staffnet.manchester.ac.uk/equality-diversity-inclusion/about-us/our-strategy/), and its [Dignity at Work and Study](https://www.staffnet.manchester.ac.uk/equality-diversity-inclusion/report-and-support/dignity-at-work/) framework.
+Our approach is informed by the CHR2027 [Equality, Diversity and Inclusion commitments](/edi/), the University of Manchester's <a href="https://www.staffnet.manchester.ac.uk/equality-diversity-inclusion/about-us/our-strategy/" target="_blank" rel="noopener noreferrer">Equality, Diversity and Inclusion strategy</a>, and its <a href="https://www.staffnet.manchester.ac.uk/equality-diversity-inclusion/report-and-support/dignity-at-work/" target="_blank" rel="noopener noreferrer">Dignity at Work and Study</a> framework.
 
 ## Expected conduct
 
@@ -42,7 +42,7 @@ If you experience or witness behaviour that may breach this Code, you can:
 
 - speak to a member of the CHR2027 response team during the conference;
 - email the local organisers at [local@computational-humanities-research.org](mailto:local@computational-humanities-research.org); or
-- use the University of Manchester's [Report + Support service](https://www.reportandsupport.manchester.ac.uk/) to seek support or submit an anonymous report. This service is available to students, staff, visitors, and members of the public.
+- use the University of Manchester's <a href="https://www.reportandsupport.manchester.ac.uk/" target="_blank" rel="noopener noreferrer">Report + Support service</a> to seek support or submit an anonymous report. This service is available to students, staff, visitors, and members of the public.
 
 The CHR2027 response team will include the CHR Diversity and Inclusion Officer and a designated member of the local organising committee. Their names and direct contact details, together with details of any dedicated anonymous CHR reporting route, will be published before the conference.
 
