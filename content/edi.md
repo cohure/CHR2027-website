@@ -28,7 +28,9 @@ If you need an adjustment or additional support, please contact the local organi
 
 ## Registration and participation
 
-Information about registration fees, any available financial support, and participation formats will be published when registration opens. Online participation is not currently confirmed and should not be assumed to be available.
+Digital Scholar is offering five €500 bursaries to support eligible early-career researchers attending CHR2027. Please see the [Bursaries page](/bursaries/) for eligibility criteria, application instructions, and key dates.
+
+Information about registration fees, any other available financial support, and participation formats will be published when registration opens. Online participation is not currently confirmed and should not be assumed to be available.
 
 ## Conduct, reporting, and support
 

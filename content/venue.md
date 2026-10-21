@@ -127,6 +127,12 @@ Quick access to practical information about CHR2027:
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
+    <a href="/bursaries/" class="banner" aria-label="Read about CHR2027 bursaries and how to apply">
+        <h2>Bursaries</h2>
+        <div class="banner-footer">
+            <div class="arrow" aria-hidden="true">→</div>
+        </div>
+    </a>
     <div class="banner banner-disabled" aria-label="Registration information to be confirmed">
         <h2>Registration TBC</h2>
         <div class="banner-footer">
