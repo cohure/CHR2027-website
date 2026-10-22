@@ -50,6 +50,20 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="news">
     <div class="announce">
+        <a href="/bursaries/">
+            <img src="/images/manchester-library.jpg" alt="Manchester Central Library and St Peter's Square">
+        </a>
+        <div class="content">
+            <h3>Five CHR2027 Bursaries Available</h3>
+            <p>
+                Digital Scholar is offering five bursaries of €500 each to support eligible early-career researchers presenting at CHR2027 in Manchester. Applications close on 6 November 2026.
+            </p>
+            <a class="link-button" href="/bursaries/" aria-label="Read about CHR2027 bursaries and how to apply">
+                Read More
+            </a>
+        </div>
+    </div>
+    <div class="announce">
         <a href="https://computational-humanities-research.org/news/vacancy-communications">
             <img src="/images/vacancy-communications.jpeg" alt="Vacancy for Communications Officer">
         </a>

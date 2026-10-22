@@ -92,6 +92,16 @@ Quick access to practical information about CHR2027:
 
 <div class="space" style="padding-top:2%;"></div>
 
+<h3 style="font-weight:bold;">Food, Allergens, and Refreshments</h3>
+
+Food and refreshments will be available during the conference. Further details about the food provided and its allergen information will be published as arrangements are confirmed. If you have any dietary or allergen requirements, or any other questions relating to food, please contact the local organisers at [local@computational-humanities-research.org](mailto:local@computational-humanities-research.org) as early as possible.
+
+**Please note that bottled water will not be served.** Water dispensers are available at multiple locations across the conference buildings, so we recommend bringing your own refillable water bottle.
+
+Coffee will be served during the mid-morning and mid-afternoon refreshment breaks, but not immediately after lunch. You may therefore also wish to bring a reusable cup, preferably an insulated one, if you would like to keep some coffee for later.
+
+<div class="space" style="padding-top:2%;"></div>
+
 <h3 style="font-weight:bold;">Discover Manchester</h3>
 
 Explore Manchester's museums, galleries, music, food, neighbourhoods, and visitor information through the city's official tourism guide:

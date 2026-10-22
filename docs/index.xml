@@ -1,157 +1,152 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>CHR 2027 on Computational Humanities Research 2027</title>
-		<link>http://2027.computational-humanities-research/</link>
-		<description>Recent content in CHR 2027 on Computational Humanities Research 2027</description>
-		<generator>Hugo</generator>
-		<language>en-us</language>
-		
-		
-		
-		
-			<lastBuildDate>Fri, 25 Sep 2026 00:00:00 +0000</lastBuildDate>
-		
-			<atom:link href="http://2027.computational-humanities-research/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Keynote Speakers</title>
-				<link>http://2027.computational-humanities-research/keynotes/</link>
-				<pubDate>Thu, 09 Jul 2026 10:00:00 +0100</pubDate>
-				<guid>http://2027.computational-humanities-research/keynotes/</guid>
-				<description>&lt;p&gt;We are delighted to announce the first keynote speakers for &lt;strong&gt;Computational Humanities Research 2027 (CHR2027)&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The keynote programme reflects CHR&amp;rsquo;s commitment to bringing together internationally recognised researchers whose work advances computational approaches to the humanities while fostering dialogue across disciplines. Further keynote speakers and lecture details will be announced in due course.&lt;/p&gt;&#xA;&lt;h2 id=&#34;katherine-mcdonough&#34;&gt;&lt;a href=&#34;https://www.lancaster.ac.uk/global-affairs/people/katherine-mcdonough&#34;&gt;Katherine McDonough&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lancaster University (UK)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Katherine McDonough is a historian and digital humanist whose research explores the intersections of environmental history, digital history, and the history of climate and environmental knowledge. Her work combines computational methods with historical inquiry to investigate long-term environmental change, textual archives, and the circulation of knowledge across time and space.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Code of Conduct</title>
-				<link>http://2027.computational-humanities-research/code-of-conduct/</link>
-				<pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
-				<guid>http://2027.computational-humanities-research/code-of-conduct/</guid>
-				<description>&lt;h2 id=&#34;purpose-and-scope&#34;&gt;Purpose and scope&lt;/h2&gt;&#xA;&lt;p&gt;The organisers of the Computational Humanities Research conference are committed to providing a safe, inclusive, and accessible environment in which everyone is treated with fairness, dignity, and respect.&lt;/p&gt;&#xA;&lt;p&gt;This Code of Conduct applies to speakers, session chairs, organisers, volunteers, attendees, exhibitors, and anyone else participating in CHR2027. It covers all conference-related activities, including sessions, workshops, social events, digital communications, and any online elements that may be offered.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Discover ARoS Art Museum with Free Voucher</title>
-				<link>http://2027.computational-humanities-research/announcements/aros/</link>
-				<pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
-				<guid>http://2027.computational-humanities-research/announcements/aros/</guid>
-				<description>&lt;style&gt;&#xA;    .announce img {&#xA;        max-height: 300px;&#xA;        max-width: 100%;&#xA;    }&#xA;    .announce img.first-image {&#xA;        max-height: 400px; &#xA;        display: block;&#xA;        margin-left: auto;&#xA;        margin-right: auto;&#xA;    }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;announce&#34;&gt;&#xA;    &lt;img class=&#34;first-image&#34; src=&#34;http://2027.computational-humanities-research/images/news/aros-outside.jpg&#34; alt = &#34;ARoS Art Museum from the outside&#34;&gt;&#xA;    &lt;p&gt;&#xA;    As a participant in the upcoming CHR2024 conference, you have a unique opportunity to explore the renowned ARoS Art Museum, where art truly comes to life. We are excited to offer all attendees vouchers that can be used during your stay in Aarhus, giving you the chance to experience the museum’s extraordinary collections and exhibitions.&#xA;    &lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Keynote Lauren Klein</title>
-				<link>http://2027.computational-humanities-research/announcements/lauren-klein/</link>
-				<pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
-				<guid>http://2027.computational-humanities-research/announcements/lauren-klein/</guid>
-				<description>&lt;style&gt;&#xA;    img.first_image {&#xA;        max-width: 100%; &#xA;        max-height: 400px;&#xA;        display: block;&#xA;        margin-left: auto;&#xA;        margin-right: auto;&#xA;    }&#xA;&#xA;    .abstract {&#xA;        text-align: justify;&#xA;        font-size:0.8rem;&#xA;        padding: 1rem;&#xA;        background-color: rgba(96,24,67,0.03);&#xA;        border-left: 4px solid #2c5282;&#xA;        border-radius: 0 6px 6px 0;&#xA;    }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;announce&#34;&gt;&#xA;    &lt;img class=&#34;first_image&#34; src=&#34;http://2027.computational-humanities-research/images/news/lauren-klein.jpg&#34; alt =&#34;Portrait of Lauren Klein&#34;&gt;&#xA;    &lt;h2 id =&#34;about-lauren&#34;&gt;About Lauren&lt;/h2&gt;&#xA;    &lt;p&gt;&#xA;        We are happy to announce that Lauren Klein, Winship Distinguished Research Professor and Associate Professor in the departments of Quantitative &#xA;    Theory &amp; Methods and English at Emory University, will give a keynote speech at the Computational Humanities Research 2024 Conference.&#xA;    &lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Keynote Leon Derczynski</title>
-				<link>http://2027.computational-humanities-research/announcements/leon-derczynski/</link>
-				<pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
-				<guid>http://2027.computational-humanities-research/announcements/leon-derczynski/</guid>
-				<description>&lt;style&gt;&#xA;    img.first_image {&#xA;        max-width: 100%; &#xA;        max-height: 400px;&#xA;        display: block;&#xA;        margin-left: auto;&#xA;        margin-right: auto;&#xA;    }&#xA;    &#xA;    .abstract {&#xA;        text-align: justify;&#xA;        font-size:0.8rem;&#xA;        padding: 1rem;&#xA;        background-color: rgba(96,24,67,0.03);&#xA;        border-left: 4px solid #2c5282;&#xA;        border-radius: 0 6px 6px 0;&#xA;    }&#xA;&lt;/style&gt;&#xA;&lt;img class=&#34;first_image&#34; src=&#34;http://2027.computational-humanities-research/images/news/leon-derczynski.jpg&#34; alt = &#34;Portrait of Leon Derczynski&#34;&gt;&#xA;&lt;h2 id=&#34;about-leon&#34;&gt;About Leon&lt;/h2&gt;&#xA;&lt;p&gt;We are happy to announce that Professor Leon Derczynski, principal research scientist in LLM Security at &lt;a href=&#34;https://www.nvidia.com/en-us/&#34;&gt;NVIDIA&lt;/a&gt;&#xA;and prof in Natural Language Processing (NLP)&#xA;at &lt;a href=&#34;https://en.itu.dk/&#34;&gt;ITU Copenhagen&lt;/a&gt; (IT University of Copenhagen) will give a keynote speech at the Computational Humanities Research 2024 Conference in Aarhus, Denmark.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>News</title>
-				<link>http://2027.computational-humanities-research/news/</link>
-				<pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
-				<guid>http://2027.computational-humanities-research/news/</guid>
-				<description>&lt;style&gt;&#xA;    div.news {&#xA;        display: grid;&#xA;        grid-template-columns: repeat(auto-fill, minmax(min(320px, 100%), 1fr));&#xA;        grid-column-gap: 24px;&#xA;        grid-row-gap: 24px;&#xA;    }&#xA;    .announce {&#xA;        /*border: 1px solid;*/&#xA;        display: flex;&#xA;        flex-direction: column;&#xA;    }&#xA;&#xA;    .announce .content {&#xA;        padding: 0 0rem 1rem 0rem;&#xA;        display: flex;&#xA;        flex-direction: column;&#xA;        flex-grow: 1;&#xA;    }&#xA;&#xA;    .announce .content h3 {&#xA;        margin-bottom: 0px;&#xA;    }&#xA;    .announce img {&#xA;        width: 100%;&#xA;        aspect-ratio: 2/1;&#xA;        object-fit: cover;&#xA;        object-position: 100% 0;&#xA;    }&#xA;&#xA;    p {&#xA;        font-size: 1rem;&#xA;    }&#xA;&#xA;    .link-button {&#xA;        display: inline-block;&#xA;        padding: 0.5rem 1rem;&#xA;        border: 1px solid;&#xA;        border-radius: 24px;&#xA;        margin-top: auto;&#xA;        align-self: flex-start;&#xA;        text-decoration: none !important;&#xA;    }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;news&#34;&gt;&#xA;    &lt;div class=&#34;announce&#34;&gt;&#xA;        &lt;a href=&#34;https://computational-humanities-research.org/news/vacancy-communications&#34;&gt;&#xA;            &lt;img src=&#34;http://2027.computational-humanities-research/images/vacancy-communications.jpeg&#34; alt=&#34;Vacancy for Communications Officer&#34;&gt;&#xA;        &lt;/a&gt;&#xA;        &lt;div class=&#34;content&#34;&gt;&#xA;            &lt;h3&gt;Vacancy for Communications Officer&lt;/h3&gt;&#xA;            &lt;p&gt;&#xA;            The Society of Computational Humanities Research (SCHR) is seeking a Communications Officer to join its board. This newly established role reflects the Society&#39;s growth and its ...&#xA;            &lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Past Events</title>
-				<link>http://2027.computational-humanities-research/archive/</link>
-				<pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
-				<guid>http://2027.computational-humanities-research/archive/</guid>
-				<description>&lt;h3 id=&#34;chr2025&#34;&gt;CHR2025&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://2025.computational-humanities-research.org/&#34;&gt;CHR2025&lt;/a&gt; was a three-day&#xA;conference held on December 10 to 12, 2025. The program committee and organizers&#xA;accepted 97 papers, which have been published with the Anthology of Computers and the Humanities:&#xA;&lt;a href=&#34;https://anthology.ach.org/volumes/vol0003/&#34;&gt;https://anthology.ach.org/volumes/vol0003/&lt;/a&gt;. See&#xA;&lt;a href=&#34;https://2025.computational-humanities-research.org/&#34;&gt;https://2025.computational-humanities-research.org/&lt;/a&gt; for more information about&#xA;CHR2025.&lt;/p&gt;&#xA;&lt;h3 id=&#34;chr2024&#34;&gt;CHR2024&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://2024.computational-humanities-research.org/&#34;&gt;CHR2024&lt;/a&gt; was a three-day&#xA;conference held on December 4 to 6, 2024. The program committee and organizers&#xA;accepted 49 papers, which have been published with CEUR-WS:&#xA;&lt;a href=&#34;https://ceur-ws.org/Vol-3834/&#34;&gt;https://ceur-ws.org/Vol-3834/&lt;/a&gt;. See&#xA;&lt;a href=&#34;https://2024.computational-humanities-research.org/&#34;&gt;https://2024.computational-humanities-research.org/&lt;/a&gt; for more information about&#xA;CHR2024.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Join the Community</title>
-				<link>http://2027.computational-humanities-research/community/</link>
-				<pubDate>Sun, 15 Dec 2019 11:12:28 +0100</pubDate>
-				<guid>http://2027.computational-humanities-research/community/</guid>
-				<description>&lt;p&gt;Want to stay in touch with the CHR community? Please sign up for the &lt;a href=&#34;https://groups.google.com/u/0/g/chr-mailing&#34;&gt;CHR mailing list&lt;/a&gt;! Via this list, the board will share important updates with all members, and it also enables community members to circulate relevant vacancies, calls, and other announcements.&lt;/p&gt;&#xA;&lt;p&gt;We are using Google Groups for this. You can join the Group using either a Gmail address or your institutional/work email address. In the latter case, please note that you need to link that address to a Google account before joining. More information on how to do this can be found on &lt;a href=&#34;https://support.google.com/groups/answer/1067205?hl=en&#34;&gt;this page&lt;/a&gt;.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Join the Community</title>
-				<link>http://2027.computational-humanities-research/contact/</link>
-				<pubDate>Sun, 15 Dec 2019 11:12:28 +0100</pubDate>
-				<guid>http://2027.computational-humanities-research/contact/</guid>
-				<description>&lt;h3 id=&#34;community&#34;&gt;Community&lt;/h3&gt;&#xA;&lt;p&gt;Want to stay in touch with the CHR community? Please sign up for the &lt;a href=&#34;https://groups.google.com/u/0/g/chr-mailing&#34;&gt;CHR mailing list&lt;/a&gt;! Via this list, the board will share important updates with all members, and it also enables community members to circulate relevant vacancies, calls, and other announcements.&lt;/p&gt;&#xA;&lt;p&gt;We are using Google Groups for this. You can join the Group using either a Gmail address or your institutional/work email address. In the latter case, please note that you need to link that address to a Google account before joining. More information on how to do this can be found on &lt;a href=&#34;https://support.google.com/groups/answer/1067205?hl=en&#34;&gt;this page&lt;/a&gt;.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Bursaries</title>
-				<link>http://2027.computational-humanities-research/bursaries/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://2027.computational-humanities-research/bursaries/</guid>
-				<description>&lt;p&gt;Digital Scholar will offer &lt;strong&gt;five bursaries of €500 each&lt;/strong&gt; to support early-career researchers with limited financial resources or in precarious working positions who wish to present at CHR2027 in Manchester.&lt;/p&gt;&#xA;&lt;h2 id=&#34;call-for-applications&#34;&gt;Call for Applications&lt;/h2&gt;&#xA;&lt;p&gt;The bursaries are intended to reduce participation costs, such as travel and accommodation, for early-career researchers who might otherwise be unable to attend. Applicants must have at least one accepted contribution (paper, poster, lightning talk, or workshop) in the CHR2027 programme.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Call for Papers</title>
-				<link>http://2027.computational-humanities-research/cfp/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://2027.computational-humanities-research/cfp/</guid>
-				<description>&lt;p&gt;In recent years, the arts and humanities have seen a significant increase in the use of computational, statistical, and mathematical approaches. This kind of research is distinguished by its reliance on formal methods and the development of explicit, computational models – ranging from quantitative and statistical techniques to broader computational methods for processing and analysing data, as well as theoretical reflections on these approaches.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The CHR conference seeks to be a venue where scholars can present and publish computational work while maintaining a strong connection to traditional humanities inquiry.&lt;/strong&gt; &lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Campus Accessibility</title>
-				<link>http://2027.computational-humanities-research/venue/accessibility/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://2027.computational-humanities-research/venue/accessibility/</guid>
-				<description>&lt;p&gt;We want CHR2027 to be welcoming and accessible to everyone attending the conference. Detailed information about the accessibility of the conference buildings and rooms will be added once the programme and room allocation have been confirmed.&lt;/p&gt;&#xA;&lt;h2 id=&#34;access-requirements-and-additional-support&#34;&gt;Access requirements and additional support&lt;/h2&gt;&#xA;&lt;p&gt;We are happy to provide additional services and support where possible. If you have any access requirements or need specific arrangements in order to participate in the conference, please let the local organisers know as far in advance as possible by emailing &lt;a href=&#34;mailto:local@computational-humanities-research.org&#34;&gt;local@computational-humanities-research.org&lt;/a&gt;. This will give us the best opportunity to discuss your needs and make suitable arrangements.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>CHR 2025 in Luxembourg</title>
-				<link>http://2027.computational-humanities-research/announcements/chr2025-in-luxembourg/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://2027.computational-humanities-research/announcements/chr2025-in-luxembourg/</guid>
-				<description>&lt;style&gt;&#xA;.announce img {&#xA;    max-height: 300px;&#xA;    max-width: 100%;&#xA;}&#xA;&#xA;.announce img.first_image {&#xA;    max-height: 400px; &#xA;    display: block; &#xA;    margin-left: auto;&#xA;    margin-right: auto;&#xA;}&#xA;&#xA;.announce div &gt; img.first_image { &#xA;    text-align: center; /* if centring  fails */&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;announce&#34;&gt;&#xA;    &lt;img class=&#34;first_image&#34; src=&#34;http://2027.computational-humanities-research/images/news/chr2025-luxembourg.jpg&#34; alt =&#34;Foto of buildings in Luxembourg, covered in snow&#34;&gt;&#xA;&lt;p&gt;&#xA;The 6th edition of the Computational Humanities Research (CHR) conference will take place at the &lt;a href=&#34;https://www.c2dh.uni.lu/&#34;&gt;Luxembourg Centre for Contemporary and Digital History (C²DH)&lt;/a&gt; at the &lt;a href=&#34;https://www.uni.lu/en/&#34;&gt;University of Luxembourg&lt;/a&gt; from &lt;strong&gt;9 to 12 December 2025&lt;/strong&gt;.&#xA;&lt;p&gt;&#xA;&lt;p&gt;&#xA;Renowned for its focus on providing a dedicated venue for presenting computational work that bridges formal methods and traditional inquiry in the arts and humanities, the CHR conference offers a platform to explore computational, statistical, and mathematical approaches, alongside theoretical reflections on these methods. We look forward to continuing our discussions in Luxembourg!&#xA;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>CHR Journal</title>
-				<link>http://2027.computational-humanities-research/journal/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://2027.computational-humanities-research/journal/</guid>
-				<description>&lt;style&gt;&#xA;    img.first_image {&#xA;        max-width: 100%; &#xA;        max-height: 400px;&#xA;        display: block;&#xA;        margin-left: auto;&#xA;        margin-right: auto;&#xA;    }&#xA;&lt;/style&gt;&#xA;&lt;img class=&#34;first_image&#34; src=&#34;http://2027.computational-humanities-research/images/announce/journal-announcement.jpg&#34;&gt;&#xA;&lt;p&gt;The Cambridge University Press journal &lt;em&gt;Computational Humanities Research&lt;/em&gt; (CHR) is the official journal of the &lt;a href=&#34;https://computational-humanities-research.org/&#34;&gt;CHR Conference&lt;/a&gt;. CHR is an open access journal in the computational humanities, publishing transdisciplinary papers that are grounded in humanities research questions and use computational, quantitative methodologies to analyse humanities data in its various forms.&lt;/p&gt;&#xA;&lt;p&gt;CHR publishes research that tackles big questions and solves problems pertaining to the humanities through advanced computational methods, contributing empirically to major theoretical, cultural, and historical inquiry. It seeks papers that spotlight quantitative and computational methods and applications, including the practical use and impact of computational techniques, in humanities research.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>CHR2024 Best Paper Awards</title>
-				<link>http://2027.computational-humanities-research/announcements/best-paper-awards/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://2027.computational-humanities-research/announcements/best-paper-awards/</guid>
-				<description>&lt;style&gt;&#xA;    /* Base styles */&#xA;    .announce {&#xA;        display: flex;&#xA;        justify-content: center;&#xA;        align-items: center;&#xA;    }&#xA;    .announce img {&#xA;        max-height: 300px;&#xA;        max-width: 85%;&#xA;        margin: 5pt;&#xA;    }&#xA;    .announce img.first-image, .announce img.second-image {&#xA;        max-height: 400px;&#xA;    }&#xA;&#xA;    .paper-entry {&#xA;        font-size: 1.3em;&#xA;        padding: 0.5rem 1rem;&#xA;        margin-bottom: 1.5rem;&#xA;    }&#xA;&#xA;    .paper-title {&#xA;        display: inline;&#xA;    }&#xA;    .paper-authors {&#xA;        margin-left: 2em;&#xA;        display: block;&#xA;    }&#xA;&#xA;    .honorable-entry {&#xA;        font-size:1em;&#xA;&#xA;    }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;announce&#34;&gt;&#xA;    &lt;img src=&#34;http://2027.computational-humanities-research/images/news/CHR-BestLongPaperAward.png&#34; alt=&#34;Certificate for best long paper award, awarded to Jamie Mahowald and Benjamin Lee&#34; class=&#34;first-image&#34;&gt;&#xA;    &lt;img src=&#34;http://2027.computational-humanities-research/images/news/CHR-BestShortPaperAward.png&#34; alt=&#34;Second Image&#34; class=&#34;second-image&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;CHR2024 showcased outstanding work, highlighting cutting-edge computational approaches to humanities research. A heartfelt thank you to everyone who participated, whether by presenting your work or contributing to meaningful discussions at the conference.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>CHR2027 Review Guidelines</title>
-				<link>http://2027.computational-humanities-research/reviewer-instructions/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://2027.computational-humanities-research/reviewer-instructions/</guid>
-				<description>&lt;p&gt;If you notice any problems meeting the review deadline or with your assignments, or if you have any questions about EasyChair, please contact us as soon as possible.&lt;/p&gt;&#xA;&lt;p&gt;Please note: If a submission violates template, anonymization, or reference requirements, do not proceed with review; contact the CHR2027 programme chairs.&lt;/p&gt;&#xA;&lt;p&gt;Please also note that we assign a small number of community member and non-expert reviews in order to promote interdisciplinarity, diversity, and community engagement.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Diversity and Inclusion at CHR2024</title>
-				<link>http://2027.computational-humanities-research/announcements/diversity-and-inclusion/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://2027.computational-humanities-research/announcements/diversity-and-inclusion/</guid>
-				<description>&lt;style&gt;&#xA;    .announce img {&#xA;        max-height: 300px;&#xA;        max-width: 85%;&#xA;    }&#xA;    .announce img.first-image {&#xA;        max-height: 400px; &#xA;        display: block;&#xA;        margin-left: auto;&#xA;        margin-right: auto;&#xA;    }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;announce&#34;&gt;&#xA;    &lt;p&gt;&#xA;    New initiatives, like the Anti-Discrimination Committee and reduced fees, reinforce the CHR2024 Conference’s commitment to accessibility and inclusivity, ensuring all participants feel valued and supported.&#xA;    &lt;br&gt;&#xA;    &lt;br&gt;&#xA;    Since its inception five years ago, the Computational Humanities Research (CHR) Conference has developed into a prominent and well-regarded event, attracting researchers who apply computational methods across various humanities fields. This growth has enriched the CHR community, diversifying both the range of topics explored and the contributors involved. &#xA;    &lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Equality, Diversity and Inclusion</title>
-				<link>http://2027.computational-humanities-research/edi/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://2027.computational-humanities-research/edi/</guid>
-				<description>&lt;p&gt;CHR2027 is committed to creating a welcoming conference at which everyone is treated with fairness, dignity, and respect and has a genuine opportunity to participate. Our approach is informed by the University of Manchester&amp;rsquo;s commitment to an inclusive, diverse, and accessible environment and by the CHR &lt;a href=&#34;http://2027.computational-humanities-research/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-commitments&#34;&gt;Our commitments&lt;/h2&gt;&#xA;&lt;p&gt;We aim to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;provide an environment free from discrimination, harassment, bullying, and victimisation;&lt;/li&gt;&#xA;&lt;li&gt;respect participants&amp;rsquo; identities, backgrounds, names, and pronouns;&lt;/li&gt;&#xA;&lt;li&gt;consider accessibility and inclusion throughout the conference programme, venue arrangements, catering, and social activities;&lt;/li&gt;&#xA;&lt;li&gt;listen to participants&amp;rsquo; individual requirements rather than make assumptions about the support they need; and&lt;/li&gt;&#xA;&lt;li&gt;respond to concerns fairly, sensitively, confidentially, and without retaliation against anyone who raises a concern in good faith.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;inclusive-participation&#34;&gt;Inclusive participation&lt;/h2&gt;&#xA;&lt;p&gt;When registration opens, participants will be invited to tell us confidentially about access, dietary, religious, caring, or other requirements that may affect their participation. Providing this information will be optional. We will work with participants and the University to make reasonable arrangements wherever possible.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>People</title>
-				<link>http://2027.computational-humanities-research/people/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://2027.computational-humanities-research/people/</guid>
-				<description>&lt;h3 id=&#34;programme-chairs&#34;&gt;Programme Chairs&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Evelyn Gius &lt;em&gt;(Technical University Darmstadt, Germany)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Giovanni Colavizza &lt;em&gt;(University of Copenhagen, Denmark  University of Bologna, Italy)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Kaspar Beelen &lt;em&gt;(School of Advanced Study, University of London, UK)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Contact:&lt;/strong&gt; pc[at]computational-humanities-research[dot]org&lt;/p&gt;&#xA;&lt;h3 id=&#34;local-organizers&#34;&gt;Local Organizers&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;All local organizers are affiliated with the &lt;a href=&#34;https://www.digital-humanities.manchester.ac.uk&#34; target=&#34;_blank&#34;&gt;Centre for Digital Humanities, Cultures and Media&lt;/a&gt; at the University of Manchester.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Giulia Grisot&lt;/li&gt;&#xA;&lt;li&gt;Andrea Nini&lt;/li&gt;&#xA;&lt;li&gt;Luca Scholz&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Contact:&lt;/strong&gt; local[at]computational-humanities-research[dot]org&lt;/p&gt;&#xA;&lt;h3 id=&#34;programme-committee&#34;&gt;Programme Committee&lt;/h3&gt;&#xA;&lt;p&gt;TBA&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Vacancies in the CHR Board</title>
-				<link>http://2027.computational-humanities-research/announcements/board-vacancies/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://2027.computational-humanities-research/announcements/board-vacancies/</guid>
-				<description>&lt;p&gt;Looking to make an impact in Computational Humanities? The Society of Computational Humanities Research (SCHR) is recruiting an &lt;span style=&#34;font-weight:bold;&#34;&gt;Early Career Representative&lt;/span&gt; and a &lt;span style=&#34;font-weight:bold;&#34;&gt;Proceedings Officer&lt;/span&gt; to join its &lt;a href=&#34;http://2027.computational-humanities-research/about/board&#34;&gt;board&lt;/a&gt;. These volunteer roles are perfect opportunities to shape the field and support its growing community.&lt;/p&gt;&#xA;&lt;div style=&#34;font-size:1.6em; text-align:center&#34;&gt;&#xA;&lt;span style=&#34;font-weight:bold;&#34;&gt;Apply by 21 February 2025!&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;space&#34; style=&#34;padding-top:0.5%;&#34;&gt;&lt;/div&gt;&#xA;&lt;h3 style=&#34;font-weight:bold;&#34;&gt;Vacancy 1: Early Career Representative for the Society of Computational Humanities Research (SCHR)&lt;/h3&gt;&#xA;&lt;p&gt;The Society of Computational Humanities Research (SCHR) is seeking an Early Career Representative to join its board. This newly established role is dedicated to representing the interests of early career researchers within the Society. As Early Career Representative, you will act as a bridge between the Society and the early-career research Computational Humanities Research community, ensuring their perspectives are heard and their needs addressed.&#xA;This is a remote volunteer position for a minimum of one year with the possibility of extension for another year. The estimated workload for this role includes bi-monthly meetings, and an average commitment of approximately one day of work per month, though this may vary throughout the year.&lt;/p&gt;</description>
-			</item>
-	</channel>
+  <channel>
+    <title>CHR 2027 on Computational Humanities Research 2027</title>
+    <link>http://2027.computational-humanities-research/</link>
+    <description>Recent content in CHR 2027 on Computational Humanities Research 2027</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://2027.computational-humanities-research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keynote Speakers</title>
+      <link>http://2027.computational-humanities-research/keynotes/</link>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 +0100</pubDate>
+      <guid>http://2027.computational-humanities-research/keynotes/</guid>
+      <description>We are delighted to announce the first keynote speakers for Computational Humanities Research 2027 (CHR2027).&#xA;The keynote programme reflects CHR&amp;rsquo;s commitment to bringing together internationally recognised researchers whose work advances computational approaches to the humanities while fostering dialogue across disciplines. Further keynote speakers and lecture details will be announced in due course.&#xA;Katherine McDonough Lancaster University (UK)&#xA;Katherine McDonough is a historian and digital humanist whose research explores the intersections of environmental history, digital history, and the history of climate and environmental knowledge.</description>
+    </item>
+    <item>
+      <title>Code of Conduct</title>
+      <link>http://2027.computational-humanities-research/code-of-conduct/</link>
+      <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
+      <guid>http://2027.computational-humanities-research/code-of-conduct/</guid>
+      <description>Purpose and scope The organisers of the Computational Humanities Research conference are committed to providing a safe, inclusive, and accessible environment in which everyone is treated with fairness, dignity, and respect.&#xA;This Code of Conduct applies to speakers, session chairs, organisers, volunteers, attendees, exhibitors, and anyone else participating in CHR2027. It covers all conference-related activities, including sessions, workshops, social events, digital communications, and any online elements that may be offered.</description>
+    </item>
+    <item>
+      <title>Discover ARoS Art Museum with Free Voucher</title>
+      <link>http://2027.computational-humanities-research/announcements/aros/</link>
+      <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
+      <guid>http://2027.computational-humanities-research/announcements/aros/</guid>
+      <description>As a participant in the upcoming CHR2024 conference, you have a unique opportunity to explore the renowned ARoS Art Museum, where art truly comes to life. We are excited to offer all attendees vouchers that can be used during your stay in Aarhus, giving you the chance to experience the museum’s extraordinary collections and exhibitions. Using Your Vouchers Your vouchers are valid from Saturday, November 30, 2024, through Sunday, December 8, 2024.</description>
+    </item>
+    <item>
+      <title>Keynote Lauren Klein</title>
+      <link>http://2027.computational-humanities-research/announcements/lauren-klein/</link>
+      <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
+      <guid>http://2027.computational-humanities-research/announcements/lauren-klein/</guid>
+      <description>About Lauren We are happy to announce that Lauren Klein, Winship Distinguished Research Professor and Associate Professor in the departments of Quantitative Theory &amp; Methods and English at Emory University, will give a keynote speech at the Computational Humanities Research 2024 Conference. Lauren Klein also directs the Digital Humanities Lab at Emory University, and before moving to Emory, she taught in the School of Literature, Media, and Communication at Georgia Tech.</description>
+    </item>
+    <item>
+      <title>Keynote Leon Derczynski</title>
+      <link>http://2027.computational-humanities-research/announcements/leon-derczynski/</link>
+      <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
+      <guid>http://2027.computational-humanities-research/announcements/leon-derczynski/</guid>
+      <description>About Leon We are happy to announce that Professor Leon Derczynski, principal research scientist in LLM Security at NVIDIA and prof in Natural Language Processing (NLP) at ITU Copenhagen (IT University of Copenhagen) will give a keynote speech at the Computational Humanities Research 2024 Conference in Aarhus, Denmark.&#xA;Professor Derczynski contributes to leading bodies on LLM securing, being on the OWASP LLM Top 10 core team, working on ML Commons, and founder of the ACL SIG on NLP Security.</description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>http://2027.computational-humanities-research/news/</link>
+      <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
+      <guid>http://2027.computational-humanities-research/news/</guid>
+      <description>Five CHR2027 Bursaries Available Digital Scholar is offering five bursaries of €500 each to support eligible early-career researchers presenting at CHR2027 in Manchester. Applications close on 6 November 2026. Read More Vacancy for Communications Officer The Society of Computational Humanities Research (SCHR) is seeking a Communications Officer to join its board. This newly established role reflects the Society&#39;s growth and its ... Read More Keynote Speakers Announced We are delighted to announce the first keynote speakers for CHR2027: Katherine McDonough (Lancaster University) and Fotis Jannidis (University of Würzburg).</description>
+    </item>
+    <item>
+      <title>Past Events</title>
+      <link>http://2027.computational-humanities-research/archive/</link>
+      <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
+      <guid>http://2027.computational-humanities-research/archive/</guid>
+      <description>CHR2025 CHR2025 was a three-day conference held on December 10 to 12, 2025. The program committee and organizers accepted 97 papers, which have been published with the Anthology of Computers and the Humanities: https://anthology.ach.org/volumes/vol0003/. See https://2025.computational-humanities-research.org/ for more information about CHR2025.&#xA;CHR2024 CHR2024 was a three-day conference held on December 4 to 6, 2024. The program committee and organizers accepted 49 papers, which have been published with CEUR-WS: https://ceur-ws.org/Vol-3834/. See https://2024.</description>
+    </item>
+    <item>
+      <title>Join the Community</title>
+      <link>http://2027.computational-humanities-research/community/</link>
+      <pubDate>Sun, 15 Dec 2019 11:12:28 +0100</pubDate>
+      <guid>http://2027.computational-humanities-research/community/</guid>
+      <description>Want to stay in touch with the CHR community? Please sign up for the CHR mailing list! Via this list, the board will share important updates with all members, and it also enables community members to circulate relevant vacancies, calls, and other announcements.&#xA;We are using Google Groups for this. You can join the Group using either a Gmail address or your institutional/work email address. In the latter case, please note that you need to link that address to a Google account before joining.</description>
+    </item>
+    <item>
+      <title>Join the Community</title>
+      <link>http://2027.computational-humanities-research/contact/</link>
+      <pubDate>Sun, 15 Dec 2019 11:12:28 +0100</pubDate>
+      <guid>http://2027.computational-humanities-research/contact/</guid>
+      <description>Community Want to stay in touch with the CHR community? Please sign up for the CHR mailing list! Via this list, the board will share important updates with all members, and it also enables community members to circulate relevant vacancies, calls, and other announcements.&#xA;We are using Google Groups for this. You can join the Group using either a Gmail address or your institutional/work email address. In the latter case, please note that you need to link that address to a Google account before joining.</description>
+    </item>
+    <item>
+      <title>Bursaries</title>
+      <link>http://2027.computational-humanities-research/bursaries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2027.computational-humanities-research/bursaries/</guid>
+      <description>Digital Scholar will offer five bursaries of €500 each to support early-career researchers with limited financial resources or in precarious working positions who wish to present at CHR2027 in Manchester.&#xA;Call for Applications The bursaries are intended to reduce participation costs, such as travel and accommodation, for early-career researchers who might otherwise be unable to attend. Applicants must have at least one accepted contribution (paper, poster, lightning talk, or workshop) in the CHR2027 programme.</description>
+    </item>
+    <item>
+      <title>Call for Papers</title>
+      <link>http://2027.computational-humanities-research/cfp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2027.computational-humanities-research/cfp/</guid>
+      <description>In recent years, the arts and humanities have seen a significant increase in the use of computational, statistical, and mathematical approaches. This kind of research is distinguished by its reliance on formal methods and the development of explicit, computational models – ranging from quantitative and statistical techniques to broader computational methods for processing and analysing data, as well as theoretical reflections on these approaches.&#xA;The CHR conference seeks to be a venue where scholars can present and publish computational work while maintaining a strong connection to traditional humanities inquiry.</description>
+    </item>
+    <item>
+      <title>Campus Accessibility</title>
+      <link>http://2027.computational-humanities-research/venue/accessibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2027.computational-humanities-research/venue/accessibility/</guid>
+      <description>We want CHR2027 to be welcoming and accessible to everyone attending the conference. Detailed information about the accessibility of the conference buildings and rooms will be added once the programme and room allocation have been confirmed.&#xA;Access requirements and additional support We are happy to provide additional services and support where possible. If you have any access requirements or need specific arrangements in order to participate in the conference, please let the local organisers know as far in advance as possible by emailing local@computational-humanities-research.</description>
+    </item>
+    <item>
+      <title>CHR 2025 in Luxembourg</title>
+      <link>http://2027.computational-humanities-research/announcements/chr2025-in-luxembourg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2027.computational-humanities-research/announcements/chr2025-in-luxembourg/</guid>
+      <description>The 6th edition of the Computational Humanities Research (CHR) conference will take place at the Luxembourg Centre for Contemporary and Digital History (C²DH) at the University of Luxembourg from 9 to 12 December 2025. Renowned for its focus on providing a dedicated venue for presenting computational work that bridges formal methods and traditional inquiry in the arts and humanities, the CHR conference offers a platform to explore computational, statistical, and mathematical approaches, alongside theoretical reflections on these methods.</description>
+    </item>
+    <item>
+      <title>CHR Journal</title>
+      <link>http://2027.computational-humanities-research/journal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2027.computational-humanities-research/journal/</guid>
+      <description>The Cambridge University Press journal Computational Humanities Research (CHR) is the official journal of the CHR Conference. CHR is an open access journal in the computational humanities, publishing transdisciplinary papers that are grounded in humanities research questions and use computational, quantitative methodologies to analyse humanities data in its various forms.&#xA;CHR publishes research that tackles big questions and solves problems pertaining to the humanities through advanced computational methods, contributing empirically to major theoretical, cultural, and historical inquiry.</description>
+    </item>
+    <item>
+      <title>CHR2024 Best Paper Awards</title>
+      <link>http://2027.computational-humanities-research/announcements/best-paper-awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2027.computational-humanities-research/announcements/best-paper-awards/</guid>
+      <description>CHR2024 showcased outstanding work, highlighting cutting-edge computational approaches to humanities research. A heartfelt thank you to everyone who participated, whether by presenting your work or contributing to meaningful discussions at the conference.&#xA;We are delighted to reveal the winners of the Best Long Paper and Best Short Paper Awards. With so many exceptional submissions, we are pleased to also give honourable mentions to the two runners-up in each category.</description>
+    </item>
+    <item>
+      <title>CHR2027 Review Guidelines</title>
+      <link>http://2027.computational-humanities-research/reviewer-instructions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2027.computational-humanities-research/reviewer-instructions/</guid>
+      <description>If you notice any problems meeting the review deadline or with your assignments, or if you have any questions about EasyChair, please contact us as soon as possible.&#xA;Please note: If a submission violates template, anonymization, or reference requirements, do not proceed with review; contact the CHR2027 programme chairs.&#xA;Please also note that we assign a small number of community member and non-expert reviews in order to promote interdisciplinarity, diversity, and community engagement.</description>
+    </item>
+    <item>
+      <title>Diversity and Inclusion at CHR2024</title>
+      <link>http://2027.computational-humanities-research/announcements/diversity-and-inclusion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2027.computational-humanities-research/announcements/diversity-and-inclusion/</guid>
+      <description>New initiatives, like the Anti-Discrimination Committee and reduced fees, reinforce the CHR2024 Conference’s commitment to accessibility and inclusivity, ensuring all participants feel valued and supported. Since its inception five years ago, the Computational Humanities Research (CHR) Conference has developed into a prominent and well-regarded event, attracting researchers who apply computational methods across various humanities fields. This growth has enriched the CHR community, diversifying both the range of topics explored and the contributors involved.</description>
+    </item>
+    <item>
+      <title>Equality, Diversity and Inclusion</title>
+      <link>http://2027.computational-humanities-research/edi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2027.computational-humanities-research/edi/</guid>
+      <description>CHR2027 is committed to creating a welcoming conference at which everyone is treated with fairness, dignity, and respect and has a genuine opportunity to participate. Our approach is informed by the University of Manchester&amp;rsquo;s commitment to an inclusive, diverse, and accessible environment and by the CHR Code of Conduct.&#xA;Our commitments We aim to:&#xA;provide an environment free from discrimination, harassment, bullying, and victimisation; respect participants&amp;rsquo; identities, backgrounds, names, and pronouns; consider accessibility and inclusion throughout the conference programme, venue arrangements, catering, and social activities; listen to participants&amp;rsquo; individual requirements rather than make assumptions about the support they need; and respond to concerns fairly, sensitively, confidentially, and without retaliation against anyone who raises a concern in good faith.</description>
+    </item>
+    <item>
+      <title>People</title>
+      <link>http://2027.computational-humanities-research/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2027.computational-humanities-research/people/</guid>
+      <description>Programme Chairs Evelyn Gius (Technical University Darmstadt, Germany) Giovanni Colavizza (University of Copenhagen, Denmark University of Bologna, Italy) Kaspar Beelen (School of Advanced Study, University of London, UK) Contact: pc[at]computational-humanities-research[dot]org&#xA;Local Organizers All local organizers are affiliated with the Centre for Digital Humanities, Cultures and Media at the University of Manchester.&#xA;Giulia Grisot Andrea Nini Luca Scholz Contact: local[at]computational-humanities-research[dot]org&#xA;Programme Committee TBA</description>
+    </item>
+    <item>
+      <title>Vacancies in the CHR Board</title>
+      <link>http://2027.computational-humanities-research/announcements/board-vacancies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2027.computational-humanities-research/announcements/board-vacancies/</guid>
+      <description>Looking to make an impact in Computational Humanities? The Society of Computational Humanities Research (SCHR) is recruiting an Early Career Representative and a Proceedings Officer to join its board. These volunteer roles are perfect opportunities to shape the field and support its growing community.&#xA;Apply by 21 February 2025! Vacancy 1: Early Career Representative for the Society of Computational Humanities Research (SCHR) The Society of Computational Humanities Research (SCHR) is seeking an Early Career Representative to join its board.</description>
+    </item>
+  </channel>
 </rss>
