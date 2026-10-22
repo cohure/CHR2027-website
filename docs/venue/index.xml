@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Venue on Computational Humanities Research 2027</title>
+		<link>http://2027.computational-humanities-research/venue/</link>
+		<description>Recent content in Venue on Computational Humanities Research 2027</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://2027.computational-humanities-research/venue/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Campus Accessibility</title>
+				<link>http://2027.computational-humanities-research/venue/accessibility/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://2027.computational-humanities-research/venue/accessibility/</guid>
+				<description>&lt;p&gt;We want CHR2027 to be welcoming and accessible to everyone attending the conference. Detailed information about the accessibility of the conference buildings and rooms will be added once the programme and room allocation have been confirmed.&lt;/p&gt;&#xA;&lt;h2 id=&#34;access-requirements-and-additional-support&#34;&gt;Access requirements and additional support&lt;/h2&gt;&#xA;&lt;p&gt;We are happy to provide additional services and support where possible. If you have any access requirements or need specific arrangements in order to participate in the conference, please let the local organisers know as far in advance as possible by emailing &lt;a href=&#34;mailto:local@computational-humanities-research.org&#34;&gt;local@computational-humanities-research.org&lt;/a&gt;. This will give us the best opportunity to discuss your needs and make suitable arrangements.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

@@ -94,6 +94,7 @@
 <div class="container">
     <div class="section content">
         <style>
+/* Box styling (.banner) comes from the theme's main.css, as on the homepage */
 .banner-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -102,83 +103,24 @@
     margin: 1rem 0 2rem;
 }
 
-.banner-grid.four-items {
-    grid-template-columns: repeat(2, 1fr);
-}
-
-.banner {
-    background-color: #002147;
-    color: white;
-    padding: 15px;
-    border-radius: 10px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    text-decoration: none;
-    transition: all 0.3s ease;
-    height: 100%;
-    width: 100%;
-    text-decoration: none !important;
-}
-
+/* Boxes for information still to be confirmed */
 .banner-disabled {
-    background-color: #5f6670;
+    border-color: #ccc;
     cursor: default;
 }
 
-.banner h2 {
-    font-size: 1.2rem;
-    margin: 0;
-    color: white;
-    text-align: left;
-}
-
-.banner .arrow {
-    margin-left: 10px;
-    width: 36px;
-    height: 36px;
-    border-radius: 50%;
-    background-color: rgba(255, 255, 255, 0.9);
-    color: #002147;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 1.2rem;
-    transition: all 0.3s ease;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-}
-
-.banner:hover {
-    background-color: #4b0033;
+.banner-disabled h2,
+.banner-disabled .arrow {
+    color: #757575;
 }
 
 .banner-disabled:hover {
-    background-color: #5f6670;
-}
-
-.banner:hover .arrow {
     background-color: white;
-    color: #4b0033;
+    border-color: #ccc;
 }
 
-@media (max-width: 480px) {
-    .banner h2 {
-        font-size: 1rem;
-    }
-
-    .banner .arrow {
-        width: 28px;
-        height: 28px;
-    }
-
-    .banner-grid {
-        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    }
-
-    .banner-grid.four-items {
-        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    }
+.banner-disabled:hover h2 {
+    color: #757575;
 }
 </style>
 <p>The CHR2027 conference will take place at <strong>The University of Manchester</strong>. Manchester is a major UK city with a rich cultural, industrial, scientific, and creative history, and the University offers a large city-centre campus with teaching, research, cultural, and visitor facilities.</p>
