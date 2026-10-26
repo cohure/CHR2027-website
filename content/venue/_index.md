@@ -37,7 +37,7 @@ layout: single
 
 The CHR2027 conference will take place at **The University of Manchester**. Manchester is a major UK city with a rich cultural, industrial, scientific, and creative history, and the University offers a large city-centre campus with teaching, research, cultural, and visitor facilities.
 
-Further details about rooms, registration, and social events will be added as the programme is confirmed.
+Further details about rooms and social events will be added as the programme is confirmed.
 
 <div class="space" style="padding-top:1%;"></div>
 
@@ -76,12 +76,12 @@ Quick access to practical information about CHR2027:
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    <div class="banner banner-disabled" aria-label="Registration information to be confirmed">
-        <h2>Registration TBC</h2>
+    <a href="/registration/" class="banner" aria-label="Read provisional registration fees and information for CHR2027">
+        <h2>Registration</h2>
         <div class="banner-footer">
-            <div class="arrow" aria-hidden="true">…</div>
+            <div class="arrow" aria-hidden="true">→</div>
         </div>
-    </div>
+    </a>
     <div class="banner banner-disabled" aria-label="Social event information to be confirmed">
         <h2>Social Events TBC</h2>
         <div class="banner-footer">
@@ -94,7 +94,7 @@ Quick access to practical information about CHR2027:
 
 <h3 style="font-weight:bold;">Food, Allergens, and Refreshments</h3>
 
-Food and refreshments will be available during the conference. Further details about the food provided and its allergen information will be published as arrangements are confirmed. If you have any dietary or allergen requirements, or any other questions relating to food, please contact the local organisers at [local@computational-humanities-research.org](mailto:local@computational-humanities-research.org) as early as possible.
+**Lunches and mid-morning and mid-afternoon refreshments are included in the registration fee.** Further details about the food provided and its allergen information will be published as arrangements are confirmed. If you have any dietary or allergen requirements, or any other questions relating to food, please contact the local organisers at [local@computational-humanities-research.org](mailto:local@computational-humanities-research.org) as early as possible.
 
 **Please note that bottled water will not be served.** Water dispensers are available at multiple locations across the conference buildings, so we recommend bringing your own refillable water bottle.
 

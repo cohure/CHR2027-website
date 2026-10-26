@@ -1,0 +1,48 @@
+---
+title: "Registration"
+description: "Registration will open soon"
+draft: false
+---
+
+Registration for CHR2027 will open soon through the **University of Manchester eStore**. The eStore registration link and confirmed fees will be added here as soon as they are available.
+
+## Registration Fees
+
+| Registration category | Fee |
+| --- | ---: |
+| Regular | TBC |
+| Regular - low income | TBC |
+| Student | TBC |
+| Student - low income | TBC |
+
+These fees apply to onsite participation in Manchester. There is currently no online registration category.
+
+**The registration fee includes lunches and mid-morning and mid-afternoon refreshments during the conference.**
+
+Further information about what is included in the fee, payment, cancellations, and the University of Manchester eStore link will be added once arrangements are confirmed.
+
+## Student Rate
+
+Student fees are available only to people enrolled as Bachelor's (BA), Master's (MA), or PhD students. PhD candidates remain eligible only until they have formally received their PhD certificate. Postdoctoral researchers and people employed in postdoctoral positions are not eligible for the student rate.
+
+## Low-income Rate
+
+The low-income rate is available with either regular or student registration. It is self-declared, and no supporting financial documentation is required. It is intended for participants for whom paying the standard fee would create a significant financial barrier. Relevant circumstances may include precarious, fractional, low-paid, or unpaid employment; unemployment or underemployment; or other personal, professional, or socioeconomic circumstances. This list is not exhaustive, and we ask participants to select the reduced rate in good faith. If you are unsure whether it is appropriate for you, please contact [pc@computational-humanities-research.org](mailto:pc@computational-humanities-research.org).
+
+## Bursaries
+
+Digital Scholar is offering five €500 bursaries to support eligible early-career researchers attending CHR2027. Please see the [Bursaries page](/bursaries/) for eligibility criteria, application instructions, and key dates.
+
+## Thursday Evening Dining
+
+There will **not** be a single formal conference dinner. Instead, the local organisers will arrange optional group dinners at several venues on **Thursday, 7 January 2027**. The venues will offer different menus and price points, including vegetarian options.
+
+Participants will be invited to sign up for their preferred option, and the organisers will make advance reservations based on the responses. These will be organised group dinners rather than simply a list of restaurant suggestions, making it easy for everyone to join, including participants who may not already know other attendees.
+
+The dinners are not included in the registration fee. Each participant will order and pay for their own food and drinks at their chosen venue.
+
+Further arrangements will be announced later, including the participating venues, indicative prices, menus and dietary information, the signup process, meeting points, and the cancellation deadline.
+
+## Questions and Requirements
+
+Participants will be able to provide access, dietary, allergen, religious, caring, and other participation requirements as part of the registration process, either through the eStore or a linked follow-up form. For questions about registration, please contact [pc@computational-humanities-research.org](mailto:pc@computational-humanities-research.org). For venue or local arrangements, please contact [local@computational-humanities-research.org](mailto:local@computational-humanities-research.org).

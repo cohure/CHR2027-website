@@ -35,6 +35,12 @@ publishDir = "docs"
     url = "/edi"
     weight = -1650
 
+  [[menu.main]]
+    identifier = "registration"
+    name = "Registration"
+    url = "/registration"
+    weight = -1550
+
   # [[menu.main]]
      # identifier = "programme"
      # name = "Programme"

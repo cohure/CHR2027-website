@@ -40,11 +40,10 @@ The 2027 edition of the Computational Humanities Research conference will be hos
 
 1. Deadline for submissions: August 14, 2026, 23:59:59 UTC-12 (Anywhere on Earth)
 2. Notification to authors: October 23, 2026
-3. Registration opens: October 23, 2026
+3. Registration opens: to be announced shortly
 4. Deadline final, camera-ready version: November 13, 2026
-5. Deadline for registration to the conference: December 12, 2026
-6. Pre-conference workshops: January 5, 2027
-7. Conference: January 6-8, 2027
+5. Pre-conference workshops: January 5, 2027
+6. Conference: January 6-8, 2027
 
 ### Submission types
 
