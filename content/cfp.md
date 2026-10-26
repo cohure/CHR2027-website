@@ -45,6 +45,10 @@ The 2027 edition of the Computational Humanities Research conference will be hos
 5. Pre-conference workshops: January 5, 2027
 6. Conference: January 6-8, 2027
 
+### Resubmission of accepted papers
+
+Authors of accepted papers must submit their revised, camera-ready version through the EasyChair conference management system by **November 13, 2026**. Please use the ACH LaTeX template linked in the submission instructions below and follow the instructions provided in your acceptance notification.
+
 ### Submission types
 
 **Long Papers**: up to **6000** words (ca. 12 pages, references, abstract and tables/illustrations excluded). Long papers report on completed, original and unpublished results. Brevity of argument is preferred. Appendices are allowed to improve reproducibility, and may include information such as pre-processing decisions, model parameters, prompts, pseudocode, additional data or inputs/outputs examples, and other details. However, reviewers are not required to read the appendices and supplementary materials during review. The main text of each paper must be **stand-alone**, well-supported, and understandable without appendix information. Links to external information, code repositories, and data storage are allowed, but must be anonymised during the review process where necessary.
