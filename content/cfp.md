@@ -1,8 +1,29 @@
 ---
 title: "Call for Papers"
-description: "Deadline for submissions: August 14, 2026"
+description: "Final revised paper deadline: November 13, 2026"
 draft: false
 ---
+
+### Important dates
+
+1. Deadline for submissions: August 14, 2026, 23:59:59 UTC-12 (Anywhere on Earth)
+2. Notification to authors: October 23, 2026
+3. Bursary application deadline: November 6, 2026
+4. Deadline for the final revised paper: November 13, 2026
+5. Accepted-author registration deadline: November 30, 2026
+6. Final programme published: December 2026
+7. Pre-conference workshops: January 5, 2027
+8. Conference: January 6-8, 2027
+
+### Information for accepted authors
+
+Authors of accepted papers must submit their final revised version through [EasyChair](https://easychair.org/my/conference?conf=chr2027) by **November 13, 2026**. Authors should read the reviewers' comments closely and address them carefully when revising their paper. The final paper will be published in the conference proceedings through the [Anthology of Computers and the Humanities](https://anthology.ach.org/). Further instructions for preparing and submitting final papers will follow.
+
+The presentation format stated in the acceptance notification may differ from the format originally requested. This affects only the conference presentation; the paper will appear in the proceedings in its original submission format.
+
+At least one author must register for the conference by **November 30, 2026** and present the paper in person in Manchester. If no author has registered by that date, the presentation will be removed from the programme. Authors who already know that in-person presentation will not be possible should contact [pc@computational-humanities-research.org](mailto:pc@computational-humanities-research.org) as soon as possible.
+
+Digital Scholar is offering five €500 bursaries to support eligible early-career researchers. The application deadline is **November 6, 2026**; see the [Bursaries page](/bursaries/) for eligibility and application details.
 
 In recent years, the arts and humanities have seen a significant increase in the use of computational, statistical, and mathematical approaches. This kind of research is distinguished by its reliance on formal methods and the development of explicit, computational models – ranging from quantitative and statistical techniques to broader computational methods for processing and analysing data, as well as theoretical reflections on these approaches.
 
@@ -35,19 +56,6 @@ To gain further insight into paper topics, please also refer to the proceedings 
 The 2027 edition of the Computational Humanities Research conference will be hosted by the [Centre for Digital Humanities, Cultures and Media](https://www.digital-humanities.manchester.ac.uk/) at the University of Manchester from 5 to 8 January 2027. The conference will be held in person in Manchester. Presentations of accepted papers, posters, lightning talks, and workshops are expected to be delivered in person at the conference; remote presentation will only be considered in exceptional unforeseen circumstances and cannot be guaranteed. Online participation may be possible, but is not yet confirmed; further details about participation formats will be announced in due course.
 
 **Please note:** all presentations will be onsite in Manchester, unless exceptional unforeseen circumstances require alternative arrangements agreed with the organisers.
-
-### Important dates
-
-1. Deadline for submissions: August 14, 2026, 23:59:59 UTC-12 (Anywhere on Earth)
-2. Notification to authors: October 23, 2026
-3. Registration opens: to be announced shortly
-4. Deadline final, camera-ready version: November 13, 2026
-5. Pre-conference workshops: January 5, 2027
-6. Conference: January 6-8, 2027
-
-### Resubmission of accepted papers
-
-Authors of accepted papers must submit their revised, camera-ready version through the EasyChair conference management system by **November 13, 2026**. Please use the ACH LaTeX template linked in the submission instructions below and follow the instructions provided in your acceptance notification.
 
 ### Submission types
 

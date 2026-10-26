@@ -23,7 +23,7 @@ See the full Call for Papers [here](https://2027.computational-humanities-resear
 Reviews should be written clearly and use constructive language. Make sure your review:
 
 - Respects the authors and their effort  
-- Helps the authors improve their work for the camera-ready version or future submissions
+- Helps the authors improve their work for the final revised version or future submissions
 
 ### Key Review Elements
 

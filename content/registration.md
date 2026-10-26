@@ -6,6 +6,10 @@ draft: false
 
 Registration for CHR2027 will open soon through the **University of Manchester eStore**. The eStore registration link and confirmed fees will be added here as soon as they are available.
 
+## Accepted Presenters
+
+At least one author of every accepted paper must register for the conference by **November 30, 2026** and present the paper in person in Manchester. If no author has registered by that date, the presentation will be removed from the programme. Authors who already know that in-person presentation will not be possible should contact [pc@computational-humanities-research.org](mailto:pc@computational-humanities-research.org) as soon as possible.
+
 ## Registration Fees
 
 | Registration category | Fee |
