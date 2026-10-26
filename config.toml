@@ -12,12 +12,6 @@ publishDir = "docs"
 [menu]
 
   [[menu.main]]
-    identifier = "cfp"
-    name = "CfP"
-    url = "/cfp"
-    weight = -2000
-
-  [[menu.main]]
     identifier = "news"
     name = "News"
     url = "/news"
