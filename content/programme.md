@@ -6,6 +6,8 @@ draft: false
 
 The detailed CHR2027 programme is currently being prepared and will be published here once it is confirmed. Session times, rooms, presentation details, and social activities are **to be confirmed**.
 
+The [keynote speakers](/keynotes/) have been announced. Their dates and times will be added when the full schedule is confirmed.
+
 ## Tuesday, 5 January 2027
 
 Four half-day pre-conference workshops will take place, with two running in parallel during the morning and two during the afternoon.

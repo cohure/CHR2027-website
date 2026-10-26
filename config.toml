@@ -12,6 +12,12 @@ publishDir = "docs"
 [menu]
 
   [[menu.main]]
+    identifier = "cfp"
+    name = "CfP"
+    url = "/cfp"
+    weight = -2000
+
+  [[menu.main]]
     identifier = "news"
     name = "News"
     url = "/news"
@@ -24,18 +30,6 @@ publishDir = "docs"
     weight = -1750
 
   [[menu.main]]
-    identifier = "edi"
-    name = "EDI"
-    url = "/edi"
-    weight = -1650
-
-  [[menu.main]]
-    identifier = "registration"
-    name = "Registration"
-    url = "/registration"
-    weight = -1550
-
-  [[menu.main]]
     identifier = "programme"
     name = "Programme"
     url = "/programme"
@@ -46,13 +40,6 @@ publishDir = "docs"
       name = "People"
       url = "/people"
       weight = -1000
-
-   [[menu.main]]
-      identifier = "keynotes"
-      name = "Keynotes"
-      url = "/keynotes"
-      weight = -850
-
 
 [markup.goldmark.renderer]
 unsafe = true

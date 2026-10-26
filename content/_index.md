@@ -208,6 +208,12 @@ place in Manchester, UK, from <b>5 to 8 January, 2027</b>. The event will be org
 <div class="space" style="padding-top:0.5%;"></div>
 
 <div class="banner-grid">
+    <a href="/cfp/" class="banner" aria-label="View the Call for Papers and submission information">
+        <h2>Call for Papers</h2>
+        <div class="banner-footer">
+            <div class="arrow" aria-hidden="true">→</div>
+        </div>
+    </a>
     <a href="/registration/" class="banner" aria-label="View registration information">
         <h2>Registration</h2>
         <div class="banner-footer">
@@ -222,24 +228,6 @@ place in Manchester, UK, from <b>5 to 8 January, 2027</b>. The event will be org
     </a>
     <a href="/venue/" class="banner" aria-label="View venue information">
         <h2>Venue</h2>
-        <div class="banner-footer">
-            <div class="arrow" aria-hidden="true">→</div>
-        </div>
-    </a>
-    <a href="/keynotes/" class="banner" aria-label="View keynote speakers">
-        <h2>Keynotes</h2>
-        <div class="banner-footer">
-            <div class="arrow" aria-hidden="true">→</div>
-        </div>
-    </a>
-    <a href="/bursaries/" class="banner" aria-label="View bursary information">
-        <h2>Bursaries</h2>
-        <div class="banner-footer">
-            <div class="arrow" aria-hidden="true">→</div>
-        </div>
-    </a>
-    <a href="/edi/" class="banner" aria-label="View equity, diversity and inclusion information">
-        <h2>EDI</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
