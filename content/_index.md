@@ -214,6 +214,12 @@ place in Manchester, UK, from <b>5 to 8 January, 2027</b>. The event will be org
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
+    <a href="/programme/" class="banner" aria-label="View the preliminary programme">
+        <h2>Programme</h2>
+        <div class="banner-footer">
+            <div class="arrow" aria-hidden="true">→</div>
+        </div>
+    </a>
     <a href="/venue/" class="banner" aria-label="View venue information">
         <h2>Venue</h2>
         <div class="banner-footer">
@@ -234,12 +240,6 @@ place in Manchester, UK, from <b>5 to 8 January, 2027</b>. The event will be org
     </a>
     <a href="/edi/" class="banner" aria-label="View equity, diversity and inclusion information">
         <h2>EDI</h2>
-        <div class="banner-footer">
-            <div class="arrow" aria-hidden="true">→</div>
-        </div>
-    </a>
-    <a href="https://computational-humanities-research.org/" class="banner" aria-label="About CHR" target="_blank" rel="noopener noreferrer">
-        <h2>About CHR</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>

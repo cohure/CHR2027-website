@@ -57,6 +57,8 @@
   </url><url>
     <loc>http://2027.computational-humanities-research/people/</loc>
   </url><url>
+    <loc>http://2027.computational-humanities-research/programme/</loc>
+  </url><url>
     <loc>http://2027.computational-humanities-research/registration/</loc>
   </url><url>
     <loc>http://2027.computational-humanities-research/tags/</loc>
@@ -64,5 +66,7 @@
     <loc>http://2027.computational-humanities-research/announcements/board-vacancies/</loc>
   </url><url>
     <loc>http://2027.computational-humanities-research/venue/</loc>
+  </url><url>
+    <loc>http://2027.computational-humanities-research/workshops/</loc>
   </url>
 </urlset>

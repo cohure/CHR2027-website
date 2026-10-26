@@ -35,11 +35,11 @@ publishDir = "docs"
     url = "/registration"
     weight = -1550
 
-  # [[menu.main]]
-     # identifier = "programme"
-     # name = "Programme"
-     # url = "/programme"
-     # weight = -1500
+  [[menu.main]]
+    identifier = "programme"
+    name = "Programme"
+    url = "/programme"
+    weight = -1500
     
   [[menu.main]]
       identifier = "people"
