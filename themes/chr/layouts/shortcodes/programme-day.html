@@ -1,0 +1,8 @@
+<section
+  id="{{ .Get "id" }}"
+  class="programme-day"
+  role="tabpanel"
+  aria-labelledby="tab-{{ .Get "id" }}"
+>
+  {{ .Inner | markdownify }}
+</section>
