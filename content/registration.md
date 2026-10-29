@@ -29,12 +29,12 @@ Further information about what is included in the fee, payment, cancellations, a
 
 Each pre-conference workshop costs **£40** and must be registered for individually. Workshop fees are additional to the main conference registration fee and include lunch and refreshments on the workshop day.
 
-| Workshop | Fee |
-| --- | ---: |
-| App Studies Workshop | £40 |
-| The Body as Evidence | £40 |
-| Code Checks Workshop | £40 |
-| Envisioning Print | £40 |
+| Workshop | Instructor(s) | Fee |
+| --- | --- | ---: |
+| App Studies Workshop | Iain Emsley | £40 |
+| The Body as Evidence | Giacomo Alliata and Yumeng Hou | £40 |
+| Code Checks Workshop | Rebecca Koeser, Malte Vogl, and Miguel Escobar Varela | £40 |
+| Envisioning Print | Giles Bergel | £40 |
 
 Two workshops will run in parallel during the morning and two during the afternoon. The morning and afternoon allocations will be announced as soon as possible. Participants must check the schedule before registering and must not select two workshops that run in parallel, as it will not be possible to attend both.
 
