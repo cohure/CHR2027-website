@@ -4,7 +4,7 @@ description: "Registration will open soon"
 draft: false
 ---
 
-Registration for CHR2027 will open soon through the **University of Manchester eStore**. The eStore registration link and confirmed fees will be added here as soon as they are available.
+Registration for CHR2027 will open soon through the **University of Manchester eStore**. The eStore registration link will be added here as soon as it is available.
 
 ## Accepted Presenters
 
@@ -14,16 +14,31 @@ At least one author of every accepted paper must register for the conference by 
 
 | Registration category | Fee |
 | --- | ---: |
-| Regular | TBC |
-| Regular - low income | TBC |
-| Student | TBC |
-| Student - low income | TBC |
+| Regular | £240 |
+| Regular - low income | £200 |
+| Student | £135 |
+| Student - low income | £95 |
 
 These fees apply to onsite participation in Manchester. There is currently no online registration category.
 
 **The registration fee includes lunches and mid-morning and mid-afternoon refreshments during the conference.**
 
 Further information about what is included in the fee, payment, cancellations, and the University of Manchester eStore link will be added once arrangements are confirmed.
+
+## Workshop Fees
+
+Each pre-conference workshop costs **£40** and must be registered for individually. Workshop fees are additional to the main conference registration fee and include lunch and refreshments on the workshop day.
+
+| Workshop | Fee |
+| --- | ---: |
+| App Studies Workshop | £40 |
+| The Body as Evidence | £40 |
+| Code Checks Workshop | £40 |
+| Envisioning Print | £40 |
+
+Two workshops will run in parallel during the morning and two during the afternoon. The morning and afternoon allocations will be announced as soon as possible. Participants must check the schedule before registering and must not select two workshops that run in parallel, as it will not be possible to attend both.
+
+Full descriptions are available on the [Workshops page](/workshops/).
 
 ## Student Rate
 

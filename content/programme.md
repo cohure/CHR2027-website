@@ -20,7 +20,7 @@ Lunches and mid-morning and mid-afternoon refreshments are included in the relev
 {{< programme-day id="tuesday" >}}
 ## Tuesday, 5 January 2027: Workshops
 
-Four half-day pre-conference workshops will take place, with two running in parallel during the morning and two during the afternoon. Each workshop is priced and registered for separately from the main conference. Lunch is included for all workshop participants.
+Four half-day pre-conference workshops will take place, with two running in parallel during the morning and two during the afternoon. Each workshop costs **£40** and is registered for separately from the main conference. Lunch and refreshments are included for all workshop participants. Morning and afternoon allocations will be announced as soon as possible; participants must not register for two workshops that run in parallel.
 
 [View workshop format, preliminary arrangements, and descriptions →](/workshops/)
 
