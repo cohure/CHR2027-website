@@ -1,14 +1,23 @@
 ---
 title: "Registration"
-description: "Registration will open soon"
+description: "Presenter registration is now open"
 draft: false
 ---
 
-Registration for CHR2027 will open soon through the **University of Manchester eStore**. The eStore registration link will be added here as soon as it is available.
+Registration is opening in two phases so that authors of accepted contributions have an opportunity to confirm their attendance before places are made available to non-presenting participants.
 
-## Accepted Presenters
+## Presenter Registration - Open
 
-At least one author of every accepted paper must register for the conference by **November 30, 2026** and present the paper in person in Manchester. If no author has registered by that date, the presentation will be removed from the programme. Authors who already know that in-person presentation will not be possible should contact [pc@computational-humanities-research.org](mailto:pc@computational-humanities-research.org) as soon as possible.
+Presenter registration is now open through the **University of Manchester eStore**. At least one author of every accepted paper must register for the conference by **November 30, 2026** and present the paper in person in Manchester. If no author has registered by that date, the presentation will be removed from the programme. Authors who already know that in-person presentation will not be possible should contact [pc@computational-humanities-research.org](mailto:pc@computational-humanities-research.org) as soon as possible.
+
+<a href="https://estore.manchester.ac.uk/conferences-and-events/faculty-of-humanities/school-of-arts-languages-and-culture/digital-humanities/chr2027-computational-humanities-research-january-2027" class="banner" target="_blank" rel="noopener noreferrer" aria-label="Register as a CHR2027 presenter through the University of Manchester eStore (opens in a new tab)">
+  <h2>Presenter registration</h2>
+  <div class="banner-footer"><div class="arrow" aria-hidden="true">→</div></div>
+</a>
+
+## General Attendance - Opens Soon
+
+Registration for participants who are not presenting at CHR2027 will open after the initial presenter-registration period. A separate general-attendance link will be published here when this phase opens. Both registration routes will use the University of Manchester eStore.
 
 ## Registration Fees
 
@@ -23,7 +32,7 @@ These fees apply to onsite participation in Manchester. There is currently no on
 
 **The registration fee includes lunches and mid-morning and mid-afternoon refreshments during the conference.**
 
-Further information about what is included in the fee, payment, cancellations, and the University of Manchester eStore link will be added once arrangements are confirmed.
+Further information about payment and cancellations will be added once arrangements are confirmed.
 
 ## Workshop Fees
 

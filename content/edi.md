@@ -18,7 +18,7 @@ We aim to:
 
 ## Inclusive participation
 
-When registration opens, participants will be invited to tell us confidentially about access, dietary, religious, caring, or other requirements that may affect their participation. Providing this information will be optional. We will work with participants and the University to make reasonable arrangements wherever possible.
+During registration, participants will be invited to tell us confidentially about access, dietary, religious, caring, or other requirements that may affect their participation. Providing this information will be optional. We will work with participants and the University to make reasonable arrangements wherever possible.
 
 Examples may include step-free access, accessible seating, hearing or visual support, alternative formats, dietary requirements, or access to a quiet or private space. Please see our [Campus Accessibility page](/venue/accessibility/) for building, route, and room information.
 
@@ -30,7 +30,7 @@ If you need an adjustment or additional support, please contact the local organi
 
 Digital Scholar is offering five €500 bursaries to support eligible early-career researchers attending CHR2027. Please see the [Bursaries page](/bursaries/) for eligibility criteria, application instructions, and key dates.
 
-Registration categories and eligibility information are available on the [Registration page](/registration/). Lunches and mid-morning and mid-afternoon refreshments are included in the registration fee. Confirmed fees, information about any other financial support, and participation formats will be published as arrangements are confirmed. Online participation is not currently confirmed and should not be assumed to be available.
+Registration categories, confirmed fees, and eligibility information are available on the [Registration page](/registration/). Lunches and mid-morning and mid-afternoon refreshments are included in the registration fee. Information about any further financial support and participation arrangements will be published as details are confirmed. Online participation is not currently confirmed and should not be assumed to be available.
 
 ## Conduct, reporting, and support
 

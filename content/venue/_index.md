@@ -76,7 +76,7 @@ Quick access to practical information about CHR2027:
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    <a href="/registration/" class="banner" aria-label="Read provisional registration fees and information for CHR2027">
+    <a href="/registration/" class="banner" aria-label="Read registration fees and information for CHR2027">
         <h2>Registration</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
