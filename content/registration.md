@@ -1,6 +1,6 @@
 ---
 title: "Registration"
-description: "Presenter registration is now open"
+description: "Presenter registration is open"
 draft: false
 ---
 
