@@ -34,7 +34,9 @@ These fees apply to onsite participation in Manchester. There is currently no on
 
 Further information about payment and cancellations will be added once arrangements are confirmed.
 
-## Workshop Fees
+## Workshop Registration - Opens Later
+
+**Workshop registration is not yet open and will open at a later date.** Workshop bookings are separate from main conference registration. Authors, co-authors, and presenters who are currently eligible to register for the conference can do so now and book workshops separately once workshop registration opens. The workshop booking link will be published here when registration opens.
 
 Each pre-conference workshop costs **£40** and must be registered for individually. Workshop fees are additional to the main conference registration fee and include lunch and refreshments on the workshop day.
 
@@ -45,9 +47,9 @@ Each pre-conference workshop costs **£40** and must be registered for individua
 | Code Checks Workshop | Rebecca Koeser, Malte Vogl, and Miguel Escobar Varela | £40 |
 | Envisioning Print | Giles Bergel | £40 |
 
-Two workshops will run in parallel during the morning and two during the afternoon. The morning and afternoon allocations will be announced as soon as possible. Participants must check the schedule before registering and must not select two workshops that run in parallel, as it will not be possible to attend both.
+Two workshops will run in parallel during the morning and two during the afternoon. Participants may register for one morning and one afternoon workshop, but cannot attend two workshops running at the same time.
 
-Full descriptions are available on the [Workshops page](/workshops/).
+The schedule and full descriptions are available on the [Workshops page](/workshops/).
 
 ## Student Rate
 

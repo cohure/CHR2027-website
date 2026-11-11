@@ -30,7 +30,7 @@ Each workshop costs **£40**, and participants must register for each workshop i
 
 Participants may register for **one morning and one afternoon workshop**, but cannot attend two workshops running at the same time.
 
-**[Visit the CHR2027 Registration page](/registration/)** for registration information and booking details.
+**Workshop registration is not yet open and will open at a later date.** See the [registration page](/registration/) for updates on workshop booking.
 
 ## Workshop Descriptions
 
