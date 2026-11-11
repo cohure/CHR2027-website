@@ -1,30 +1,36 @@
+
 ---
 title: "Workshops"
 description: "Tuesday, 5 January 2027"
 draft: false
 ---
 
-CHR2027 will offer **four half-day pre-conference workshops** on Tuesday, 5 January 2027:
+CHR2027 will offer **four half-day pre-conference workshops** on **Tuesday, 5 January 2027**, at the University of Manchester. Two workshops will run in parallel in the morning, followed by two in the afternoon.
 
-**Please note that workshop scheduling and room information are preliminary and subject to change as arrangements are finalised.**
+## Workshop Schedule
 
-- **two parallel workshops in the morning**; and
-- **two parallel workshops in the afternoon**.
+| Time | Workshop | Fee |
+| --- | --- | ---: |
+| 09:00–09:30 | Workshop registration | — |
+| 09:30–12:30 | App Studies Workshop | £40 |
+| 09:30–12:30 | The Body as Evidence | £40 |
+| 12:30–13:30 | Lunch (all workshop participants) | Included |
+| 13:30–16:30 | Code Checks Workshop | £40 |
+| 13:30–16:30 | Envisioning Print | £40 |
 
-All registered workshop participants will be provided with lunch. Lunch will be served at the end of the morning workshops and at the beginning of the afternoon workshops. Refreshments are also included.
+Both morning and afternoon workshops include a 30-minute refreshment break. Refreshments will be served in **The Drum** (10:30–11:00 and 15:00–15:30).
 
-Each workshop costs **£40** and will be registered for individually. Workshop fees are additional to the main conference registration fee.
+Lunch will be served in **The Market** from 12:30 to 13:30 for all registered workshop participants. Lunch and refreshments are included in the workshop fee.
 
-| Workshop | Fee |
-| --- | ---: |
-| App Studies Workshop | £40 |
-| The Body as Evidence | £40 |
-| Code Checks Workshop | £40 |
-| Envisioning Print | £40 |
+An informal networking gathering will follow the workshops from 16:30. Drinks will be self-funded.
 
-The morning and afternoon workshop allocations will be announced as soon as possible. Participants must check the schedule before registering and must not select two workshops that run in parallel, as it will not be possible to attend both.
+## Registration
 
-Exact rooms, workshop allocations, capacity, and registration details will be added as arrangements are confirmed.
+Each workshop costs **£40**, and participants must register for each workshop individually. Workshop fees are separate from the main conference registration fee.
+
+Participants may register for **one morning and one afternoon workshop**, but cannot attend two workshops running at the same time.
+
+**[Visit the CHR2027 Registration page](/registration/)** for registration information and booking details.
 
 ## Workshop Descriptions
 
