@@ -1,6 +1,6 @@
 ---
 title: "Call for Papers"
-description: "Final revised paper deadline: November 13, 2026"
+description: "Final revised paper deadline: November 19, 2026"
 draft: false
 ---
 
@@ -9,19 +9,19 @@ draft: false
 1. Deadline for submissions: August 14, 2026, 23:59:59 UTC-12 (Anywhere on Earth)
 2. Notification to authors: October 23, 2026
 3. Bursary application deadline: November 6, 2026
-4. Deadline for the final revised paper: November 13, 2026
-5. Accepted-author registration deadline: November 30, 2026
+4. Deadline for the final revised paper: November 19, 2026 (23:59:59 Anywhere on Earth)
+5. Accepted-author registration deadline: December 7, 2026
 6. Final programme published: December 2026
 7. Pre-conference workshops: January 5, 2027
 8. Conference: January 6-8, 2027
 
 ### Information for accepted authors
 
-Authors of accepted papers must submit their final revised version through [EasyChair](https://easychair.org/my/conference?conf=chr2027) by **November 13, 2026**. Authors should read the reviewers' comments closely and address them carefully when revising their paper. The final paper will be published in the conference proceedings through the [Anthology of Computers and the Humanities](https://anthology.ach.org/). Further instructions for preparing and submitting final papers will follow.
+Authors of accepted papers must submit their final revised version through [EasyChair](https://easychair.org/my/conference?conf=chr2027) by **November 19, 2026**. Authors should read the reviewers' comments closely and address them carefully when revising their paper. The final paper will be published in the conference proceedings through the [Anthology of Computers and the Humanities](https://anthology.ach.org/). Further instructions for preparing and submitting final papers will follow.
 
 The presentation format stated in the acceptance notification may differ from the format originally requested. This affects only the conference presentation; the paper will appear in the proceedings in its original submission format.
 
-At least one author must register for the conference by **November 30, 2026** and present the paper in person in Manchester. If no author has registered by that date, the presentation will be removed from the programme. Authors who already know that in-person presentation will not be possible should contact [pc@computational-humanities-research.org](mailto:pc@computational-humanities-research.org) as soon as possible.
+At least one author must register for the conference by **December 7, 2026** and present the paper in person in Manchester. If no author has registered by that date, the presentation will be removed from the programme. Authors who already know that in-person presentation will not be possible should contact [pc@computational-humanities-research.org](mailto:pc@computational-humanities-research.org) as soon as possible.
 
 Digital Scholar is offering five €500 bursaries to support eligible early-career researchers. The application deadline is **November 6, 2026**; see the [Bursaries page](/bursaries/) for eligibility and application details.
 
